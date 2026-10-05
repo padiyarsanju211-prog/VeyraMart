@@ -1,0 +1,6 @@
+{
+  "name": "VeyraMart - India's Premier Online Marketplace",
+  "description": "India's premier multi-department online shopping marketplace featuring groceries, fashion, electronics, home essentials, fitness, and more with fast pan-India delivery and best ₹ deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

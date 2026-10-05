@@ -1,0 +1,3878 @@
+{
+  "products": [
+    {
+      "id": "groc-1",
+      "name": "India Gate Classic Basmati Rice (Aged Long Grain)",
+      "brand": "India Gate",
+      "department": "grocery",
+      "category": "Rice & Grains",
+      "subcategory": "Rice & Grains",
+      "price": 849,
+      "originalPrice": 1199,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3420,
+      "stock": 41,
+      "sizes": [
+        "1 kg",
+        "5 kg",
+        "10 kg"
+      ],
+      "description": "Aged for over 2 years, India Gate Classic Basmati Rice features extra-long slender grains that double in length after cooking. Perfect for fragrant biryanis and royal pulavs.",
+      "specifications": {
+        "Net Quantity": "5 kg",
+        "Dietary Preference": "Vegetarian",
+        "Grain Length": "Extra Long (>8.2mm)",
+        "Shelf Life": "24 Months",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Mega Deal"
+    },
+    {
+      "id": "groc-2",
+      "name": "Aashirvaad Shudh Chakki Whole Wheat Atta with Multigrains",
+      "brand": "Aashirvaad",
+      "department": "grocery",
+      "category": "Atta & Flour",
+      "subcategory": "Atta & Flour",
+      "price": 389,
+      "originalPrice": 475,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 5120,
+      "stock": 80,
+      "sizes": [
+        "5 kg",
+        "10 kg"
+      ],
+      "description": "Ground using traditional chakki process from 100% MP Sharbati grains. High dietary fiber gives soft, fluffy rotis that stay tender for hours.",
+      "specifications": {
+        "Net Quantity": "5 kg",
+        "Grain Type": "100% Whole Wheat",
+        "Processing": "Traditional Stone Chakki",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true,
+      "badge": "Best Seller"
+    },
+    {
+      "id": "groc-3",
+      "name": "Tata Sampann Unpolished High-Protein Toor Dal",
+      "brand": "Tata Sampann",
+      "department": "grocery",
+      "category": "Dals & Pulses",
+      "subcategory": "Dals & Pulses",
+      "price": 185,
+      "originalPrice": 230,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1890,
+      "stock": 60,
+      "sizes": [
+        "1 kg",
+        "2 kg"
+      ],
+      "description": "Tata Sampann unpolished Toor Dal retains natural fiber and nutrition without artificial water, oil, or stone polishing. Chef Sanjeev Kapoor recommended.",
+      "specifications": {
+        "Net Quantity": "1 kg",
+        "Polishing": "Unpolished (Natural)",
+        "Protein": "22g per 100g",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "groc-4",
+      "name": "Fortune Sunlite Refined Sunflower Oil (Vitamin A & D Enriched)",
+      "brand": "Fortune",
+      "department": "grocery",
+      "category": "Cooking Oil",
+      "subcategory": "Cooking Oil",
+      "price": 145,
+      "originalPrice": 185,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 2980,
+      "stock": 50,
+      "sizes": [
+        "1 Litre",
+        "5 Litre Can"
+      ],
+      "description": "Light, healthy cooking oil fortified with natural Vitamin E, A and D. Absorbs less oil during frying and maintains high smoke point.",
+      "specifications": {
+        "Net Quantity": "1 Litre Pouch",
+        "Type": "Refined Sunflower Oil",
+        "Fortification": "Vitamin A & D",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "groc-5",
+      "name": "Tata Salt Vacuum Evaporated Iodised Table Salt",
+      "brand": "Tata Salt",
+      "department": "grocery",
+      "category": "Salt & Sugar",
+      "subcategory": "Salt & Sugar",
+      "price": 28,
+      "originalPrice": 32,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1518843875459-f738682238a6?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 8400,
+      "stock": 200,
+      "sizes": [
+        "1 kg"
+      ],
+      "description": "Desh Ka Namak - Vacuum evaporated iodised salt ensuring guaranteed iodine levels essential for mental development and wholesome daily cooking.",
+      "specifications": {
+        "Net Quantity": "1 kg",
+        "Form": "Free-Flowing Granules",
+        "Iodine Content": "Min 15 ppm",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "groc-6",
+      "name": "Tata Tea Gold Royal Rich Assam CTC & Long Leaves",
+      "brand": "Tata Tea",
+      "department": "grocery",
+      "category": "Tea & Coffee",
+      "subcategory": "Tea & Coffee",
+      "price": 499,
+      "originalPrice": 620,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4210,
+      "stock": 90,
+      "sizes": [
+        "500 g",
+        "1 kg"
+      ],
+      "description": "A delicate blend of fine Assam CTC tea grains and aromatic long leaves that release an unforgettable aroma and rich amber cup.",
+      "specifications": {
+        "Net Quantity": "1 kg",
+        "Blend": "Assam CTC + 15% Long Leaf",
+        "Format": "Loose Leaf Tea",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "groc-7",
+      "name": "Nescafé Classic 100% Pure Instant Coffee Glass Jar",
+      "brand": "Nescafé",
+      "department": "grocery",
+      "category": "Tea & Coffee",
+      "subcategory": "Tea & Coffee",
+      "price": 360,
+      "originalPrice": 430,
+      "discount": 16,
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 6150,
+      "stock": 75,
+      "sizes": [
+        "100 g Jar",
+        "200 g Jar"
+      ],
+      "description": "Crafted from handpicked Robusta beans slow roasted to perfection for an unmistakable bold aroma and rich coffee kick in every sip.",
+      "specifications": {
+        "Net Quantity": "200 g",
+        "Bean Type": "Selected Robusta",
+        "Packaging": "Glass Jar",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "groc-8",
+      "name": "Parle-G Original Glucose Biscuits Value Family Pack",
+      "brand": "Parle",
+      "department": "grocery",
+      "category": "Biscuits & Cookies",
+      "subcategory": "Biscuits & Cookies",
+      "price": 95,
+      "originalPrice": 110,
+      "discount": 14,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 9200,
+      "stock": 120,
+      "sizes": [
+        "800 g Family Pack"
+      ],
+      "description": "The iconic golden biscuit loved across generations in India. Packed with energy, milk, and wheat goodness to pair with hot morning chai.",
+      "specifications": {
+        "Net Quantity": "800 g (8 packs x 100g)",
+        "Flavor": "Original Glucose",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "groc-9",
+      "name": "Maggi 2-Minute Masala Instant Noodles (12-Pack Megapack)",
+      "brand": "Maggi",
+      "department": "grocery",
+      "category": "Instant Food & Noodles",
+      "subcategory": "Instant Food & Noodles",
+      "price": 156,
+      "originalPrice": 180,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 7800,
+      "stock": 150,
+      "sizes": [
+        "Pack of 12 (840g)"
+      ],
+      "description": "India’s favorite instant comfort food with the authentic Tastemaker spice mix made of 10 roasted Indian spices with iron fortification.",
+      "specifications": {
+        "Net Quantity": "840 g (12 single packs)",
+        "Spice Blend": "Signature 10 Spices",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "groc-10",
+      "name": "Kissan Fresh Sweet & Tangy Tomato Ketchup Squeezy Pack",
+      "brand": "Kissan",
+      "department": "grocery",
+      "category": "Sauces & Spreads",
+      "subcategory": "Sauces & Spreads",
+      "price": 125,
+      "originalPrice": 155,
+      "discount": 19,
+      "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 3100,
+      "stock": 70,
+      "sizes": [
+        "950 g Squeezy Pouch"
+      ],
+      "description": "Made from 100% real ripe tomatoes grown by local farmers. Adds lip-smacking flavor to samosas, pakoras, parathas, and sandwiches.",
+      "specifications": {
+        "Net Quantity": "950 g",
+        "Base": "100% Real Tomatoes",
+        "Packaging": "Convenient Spout Pouch",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "groc-11",
+      "name": "Happilo Premium California Roasted & Salted Almonds",
+      "brand": "Happilo",
+      "department": "grocery",
+      "category": "Dry Fruits & Nuts",
+      "subcategory": "Dry Fruits & Nuts",
+      "price": 449,
+      "originalPrice": 699,
+      "discount": 36,
+      "image": "https://images.unsplash.com/photo-1508061252445-5350f3ab0a55?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2430,
+      "stock": 55,
+      "sizes": [
+        "500 g",
+        "1 kg"
+      ],
+      "description": "Handpicked crunchy California non-pareil almonds, slow roasted and lightly sprinkled with pink Himalayan salt. Rich in Vitamin E and antioxidants.",
+      "specifications": {
+        "Net Quantity": "500 g",
+        "Origin": "California, USA (Packed in India)",
+        "Diet": "Gluten Free, Keto Friendly",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "36% OFF"
+    },
+    {
+      "id": "groc-12",
+      "name": "Nutraj Jumbo Whole Royal Cashews W240 Grade",
+      "brand": "Nutraj",
+      "department": "grocery",
+      "category": "Dry Fruits & Nuts",
+      "subcategory": "Dry Fruits & Nuts",
+      "price": 529,
+      "originalPrice": 799,
+      "discount": 34,
+      "image": "https://images.unsplash.com/photo-1543208543-6052515353d0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1670,
+      "stock": 40,
+      "sizes": [
+        "500 g",
+        "1 kg"
+      ],
+      "description": "King-sized W240 grade creamy white whole cashew nuts with natural sweet nutty flavor. Nitrogen packed in vacuum pouches for maximum crunch.",
+      "specifications": {
+        "Net Quantity": "500 g",
+        "Grade": "W240 Jumbo",
+        "Processing": "Raw & Natural",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "groc-13",
+      "name": "Kellogg’s Real Almond & Honey Crunchy Corn Flakes",
+      "brand": "Kellogg’s",
+      "department": "grocery",
+      "category": "Breakfast Foods",
+      "subcategory": "Breakfast Foods",
+      "price": 335,
+      "originalPrice": 420,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1980,
+      "stock": 65,
+      "sizes": [
+        "650 g",
+        "1 kg"
+      ],
+      "description": "Crispy golden sun-ripened corn flakes tossed with slivers of real California almonds and sweet floral bee honey. Enriched with 8 essential vitamins.",
+      "specifications": {
+        "Net Quantity": "650 g",
+        "Ingredients": "Corn, Honey, Almonds",
+        "Vitamins": "B-Complex & Iron Fortified",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "groc-14",
+      "name": "Amul Pure Cow Ghee Aromatic Granular Texture Tin",
+      "brand": "Amul",
+      "department": "grocery",
+      "category": "Dairy & Ghee",
+      "subcategory": "Dairy & Ghee",
+      "price": 599,
+      "originalPrice": 650,
+      "discount": 8,
+      "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 7100,
+      "stock": 95,
+      "sizes": [
+        "1 Litre Tin"
+      ],
+      "description": "Made from fresh cow milk fat cooked slowly with traditional bilona aroma. Imparts rich golden color and authentic desi flavor to halwas and dal tadka.",
+      "specifications": {
+        "Net Quantity": "1 Litre",
+        "Source": "100% Pure Cow Milk",
+        "Texture": "Granular (Danedar)",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "groc-15",
+      "name": "Haldiram’s Nagpur Aloo Bhujia Spicy Crunchy Sev",
+      "brand": "Haldiram’s",
+      "department": "grocery",
+      "category": "Snacks & Namkeen",
+      "subcategory": "Snacks & Namkeen",
+      "price": 110,
+      "originalPrice": 130,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 4500,
+      "stock": 130,
+      "sizes": [
+        "400 g",
+        "1 kg"
+      ],
+      "description": "Tangy, spicy potato and tepary bean crispy sev blended with mint, red chillies, and secret chaat spices. An unbeatable teatime munchie.",
+      "specifications": {
+        "Net Quantity": "400 g",
+        "Flavour": "Spicy Mint Potato",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "wom-1",
+      "name": "Biba Banarasi Pure Silk Woven Floral Zari Saree with Blouse",
+      "brand": "Biba",
+      "department": "womens_fashion",
+      "category": "Sarees",
+      "subcategory": "Sarees",
+      "price": 2499,
+      "originalPrice": 5999,
+      "discount": 58,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 890,
+      "stock": 18,
+      "colors": [
+        "Emerald Green",
+        "Royal Maroon",
+        "Deep Peacock Blue"
+      ],
+      "description": "Exquisite Banarasi art silk saree woven with intricate golden zari motifs across the body and heavy pallu. Comes with an unstitched brocade blouse piece.",
+      "specifications": {
+        "Saree Length": "5.5 Meters",
+        "Blouse Piece": "0.8 Meter (Unstitched)",
+        "Fabric": "Art Silk Jacquard",
+        "Care": "Dry Clean Recommended",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "58% OFF"
+    },
+    {
+      "id": "wom-2",
+      "name": "Libas Pure Cotton Embroidered Anarkali Kurta with Dupatta Set",
+      "brand": "Libas",
+      "department": "womens_fashion",
+      "category": "Kurtis & Kurta Sets",
+      "subcategory": "Kurtis & Kurta Sets",
+      "price": 1399,
+      "originalPrice": 3299,
+      "discount": 57,
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1420,
+      "stock": 25,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Powder Blue",
+        "Peach Pink",
+        "Off White"
+      ],
+      "description": "Flared floor-length cotton Anarkali adorned with chikankari yoke embroidery, matching churidar pants, and a featherlight mulmul floral printed dupatta.",
+      "specifications": {
+        "Fabric": "100% Breathable Cotton",
+        "Sleeve Length": "Three-Quarter Sleeves",
+        "Neck Style": "Mandarin Notch Neck",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true,
+      "badge": "Top Pick"
+    },
+    {
+      "id": "wom-3",
+      "name": "W for Woman Straight Rayon Mandarin Collar Office Kurti",
+      "brand": "W for Woman",
+      "department": "womens_fashion",
+      "category": "Kurtis & Kurta Sets",
+      "subcategory": "Kurtis & Kurta Sets",
+      "price": 799,
+      "originalPrice": 1799,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 960,
+      "stock": 35,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy Blue",
+        "Mustard Yellow",
+        "Forest Green"
+      ],
+      "description": "Crisp smart ethnic kurti crafted from soft viscose rayon with side slits and subtle metallic button placket. Ideal for college and workplace chic.",
+      "specifications": {
+        "Fabric": "Viscose Rayon",
+        "Fit": "Straight Regular Fit",
+        "Wash Care": "Gentle Machine Wash",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "wom-4",
+      "name": "Vero Moda Floral Tiered Maxi Summer Dress with Belt",
+      "brand": "Vero Moda",
+      "department": "womens_fashion",
+      "category": "Dresses & Jumpsuits",
+      "subcategory": "Dresses & Jumpsuits",
+      "price": 1899,
+      "originalPrice": 3999,
+      "discount": 52,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 780,
+      "stock": 20,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Lavender Floral",
+        "Sunshine Yellow"
+      ],
+      "description": "Breezy multi-tiered chiffon maxi dress featuring delicate micro florals, flutter sleeves, and a matching fabric belt to accentuate your waistline.",
+      "specifications": {
+        "Length": "Maxi Ankle Length",
+        "Lining": "Attached Cotton Voile Lining",
+        "Occasion": "Brunch & Vacation",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "wom-5",
+      "name": "Levis 711 Skinny High-Rise Stretch Denim Jeans",
+      "brand": "Levi's",
+      "department": "womens_fashion",
+      "category": "Jeans & Jeggings",
+      "subcategory": "Jeans & Jeggings",
+      "price": 2199,
+      "originalPrice": 3899,
+      "discount": 43,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 2100,
+      "stock": 30,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Dark Indigo Wash",
+        "Light Cloud Fade",
+        "Jet Black"
+      ],
+      "description": "Designed to sculpt and hold your shape all day long. Premium hyper-stretch denim engineered with innovative soft recovery technology.",
+      "specifications": {
+        "Rise": "High Rise (10.5 Inch)",
+        "Fabric": "85% Cotton, 12% Polyester, 3% Elastane",
+        "Closure": "Button Fly & Zip",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "wom-6",
+      "name": "FabIndia Handcrafted Chanderi Zari Border Dupatta",
+      "brand": "FabIndia",
+      "department": "womens_fashion",
+      "category": "Ethnic Wear & Lehengas",
+      "subcategory": "Ethnic Wear & Lehengas",
+      "price": 1199,
+      "originalPrice": 1999,
+      "discount": 40,
+      "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 520,
+      "stock": 22,
+      "colors": [
+        "Royal Gold",
+        "Crimson Red",
+        "Teal Blue"
+      ],
+      "description": "Handwoven by skilled artisans of Madhya Pradesh, this lightweight Chanderi dupatta features shimmering golden patti borders and delicate butis.",
+      "specifications": {
+        "Length": "2.4 Meters",
+        "Weave": "Authentic Chanderi Silk-Cotton",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "wom-7",
+      "name": "Lavie Betula Vegan Leather Structured Satchel Handbag",
+      "brand": "Lavie",
+      "department": "womens_fashion",
+      "category": "Handbags & Clutches",
+      "subcategory": "Handbags & Clutches",
+      "price": 1499,
+      "originalPrice": 3999,
+      "discount": 62,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 1840,
+      "stock": 40,
+      "colors": [
+        "Cognac Tan",
+        "Blush Nude",
+        "Classic Black"
+      ],
+      "description": "Contemporary structured satchel crafted from premium pebble-grained faux leather with dual grab handles and a detachable adjustable crossbody strap.",
+      "specifications": {
+        "Compartments": "3 Main Zippered Compartments",
+        "Material": "100% PETA-Approved Vegan PU",
+        "Dimensions": "32 x 13 x 24 cm",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "62% OFF"
+    },
+    {
+      "id": "wom-8",
+      "name": "Titan Raga Viva Rose Gold Analog Watch for Women",
+      "brand": "Titan",
+      "department": "womens_fashion",
+      "category": "Fashion Jewellery",
+      "subcategory": "Fashion Jewellery",
+      "price": 3495,
+      "originalPrice": 4995,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1620,
+      "stock": 25,
+      "colors": [
+        "Rose Gold Tint"
+      ],
+      "description": "Elegantly sculpted watch with sunray mother-of-pearl dial and studded Swarovski crystals. Water resistant up to 30 meters with 2-year warranty.",
+      "specifications": {
+        "Movement": "High Precision Quartz",
+        "Strap Material": "Stainless Steel Rose Gold Plated",
+        "Dial Shape": "Oval Contemporary",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "men-1",
+      "name": "Peter England Classic Slim Fit 100% Cotton Formal Shirt",
+      "brand": "Peter England",
+      "department": "mens_fashion",
+      "category": "Formal Shirts",
+      "subcategory": "Formal Shirts",
+      "price": 899,
+      "originalPrice": 1799,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 2890,
+      "stock": 45,
+      "sizes": [
+        "38 (S)",
+        "40 (M)",
+        "42 (L)",
+        "44 (XL)"
+      ],
+      "colors": [
+        "Sky Blue",
+        "Crisp White",
+        "Soft Lilac"
+      ],
+      "description": "Crisp boardroom formal shirt made with super-combed compact cotton yarn. Features a spread collar, single chest pocket, and wrinkle-resistant finish.",
+      "specifications": {
+        "Collar": "Spread Collar",
+        "Cuff": "Single Convertible Cuff",
+        "Fit": "Slim Fit",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Flat 50% OFF"
+    },
+    {
+      "id": "men-2",
+      "name": "US Polo Assn Heritage Heavyweight Pique Polo T-Shirt",
+      "brand": "U.S. Polo Assn.",
+      "department": "mens_fashion",
+      "category": "T-Shirts & Polos",
+      "subcategory": "T-Shirts & Polos",
+      "price": 1199,
+      "originalPrice": 2299,
+      "discount": 47,
+      "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3840,
+      "stock": 60,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Racing Red",
+        "Deep Navy",
+        "Olive Green",
+        "Jet Black"
+      ],
+      "description": "Signature equestrian double-horseman embroidery on left chest. Knitted from 240 GSM breathable combed cotton pique with ribbed collar and cuffs.",
+      "specifications": {
+        "Fabric": "100% Combed Cotton Pique",
+        "Neck": "Ribbed Polo Collar with 2-Button Placket",
+        "GSM": "240 GSM Premium Weight",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "men-3",
+      "name": "Flying Machine Jackson Regular Fit Stretchy Denim Jeans",
+      "brand": "Flying Machine",
+      "department": "mens_fashion",
+      "category": "Jeans & Denim",
+      "subcategory": "Jeans & Denim",
+      "price": 1499,
+      "originalPrice": 2999,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 1950,
+      "stock": 35,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "colors": [
+        "Vintage Tint Indigo",
+        "Washed Mid Blue",
+        "Dark Charcoal"
+      ],
+      "description": "Authentic 5-pocket denim engineered for rugged durability and everyday flexibility. Subtle whiskering on thighs with reinforced rivet detailing.",
+      "specifications": {
+        "Fit": "Mid Rise Regular Straight Fit",
+        "Stretch": "2-Way Comfort Stretch",
+        "Fabric": "98% Cotton, 2% Spandex",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "men-4",
+      "name": "Manyavar Jacquard Silk Kurta & Churidar Festive Set",
+      "brand": "Manyavar",
+      "department": "mens_fashion",
+      "category": "Ethnic Wear & Kurtas",
+      "subcategory": "Ethnic Wear & Kurtas",
+      "price": 2999,
+      "originalPrice": 4999,
+      "discount": 40,
+      "image": "https://images.unsplash.com/photo-1597983073493-88cd35cf93b0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1120,
+      "stock": 20,
+      "sizes": [
+        "38 (S)",
+        "40 (M)",
+        "42 (L)",
+        "44 (XL)"
+      ],
+      "colors": [
+        "Maroon Gold",
+        "Royal Blue",
+        "Emerald Cream"
+      ],
+      "description": "Turn heads at weddings and festivals. Richly textured jacquard silk kurta with mandarin collar and zari placket, paired with a comfortable drawstring churidar.",
+      "specifications": {
+        "Set Contains": "1 Kurta + 1 Churidar",
+        "Fabric": "Art Silk Jacquard",
+        "Care": "Dry Clean Only",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "men-5",
+      "name": "Allen Solly Casual Cotton Chino Trousers with Stretch",
+      "brand": "Allen Solly",
+      "department": "mens_fashion",
+      "category": "Trousers & Chinos",
+      "subcategory": "Trousers & Chinos",
+      "price": 1299,
+      "originalPrice": 2499,
+      "discount": 48,
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1720,
+      "stock": 40,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Khaki Beige",
+        "Charcoal Grey",
+        "Navy Blue"
+      ],
+      "description": "Work-to-weekend versatility. Garment-dyed twill fabric delivers an ultra-soft hand feel with neat slant pockets and welted back button pockets.",
+      "specifications": {
+        "Fit": "Slim Fit Flat Front",
+        "Fabric": "97% Cotton, 3% Elastane",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "men-6",
+      "name": "WildHorn Hunter RFID Protected Top-Grain Leather Wallet",
+      "brand": "WildHorn",
+      "department": "mens_fashion",
+      "category": "Watches & Wallets",
+      "subcategory": "Watches & Wallets",
+      "price": 649,
+      "originalPrice": 1599,
+      "discount": 59,
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4180,
+      "stock": 80,
+      "colors": [
+        "Vintage Distressed Brown",
+        "Classic Black"
+      ],
+      "description": "Handcrafted from 100% genuine buffalo hunter leather that develops a handsome patina over time. Equipped with military-grade RFID blocking technology.",
+      "specifications": {
+        "Card Slots": "8 Card Slots + 2 Cash Compartments",
+        "Feature": "RFID Theft Protection",
+        "Material": "Genuine Top-Grain Leather",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "59% OFF"
+    },
+    {
+      "id": "kid-1",
+      "name": "Hopscotch Boys 3-Piece Festive Waistcoat, Shirt & Trouser Set",
+      "brand": "Hopscotch",
+      "department": "kids",
+      "category": "Boys Clothing (2–14Y)",
+      "subcategory": "Boys Clothing (2–14Y)",
+      "price": 999,
+      "originalPrice": 2299,
+      "discount": 56,
+      "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 940,
+      "stock": 25,
+      "sizes": [
+        "2–3 Years",
+        "4–5 Years",
+        "6–7 Years",
+        "8–9 Years"
+      ],
+      "colors": [
+        "Navy & Yellow",
+        "Maroon & Cream"
+      ],
+      "description": "Dapper celebration set for young gentlemen. Includes a floral printed jacquard waistcoat, breathable solid cotton shirt, and elasticated tailored pants.",
+      "specifications": {
+        "Set Includes": "Waistcoat, Shirt, Trouser, Bow-tie",
+        "Age Group": "2–9 Years",
+        "Care": "Gentle Hand Wash",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "56% OFF"
+    },
+    {
+      "id": "kid-2",
+      "name": "Gini & Jony Girls Net Ruffle Princess Party Frock",
+      "brand": "Gini & Jony",
+      "department": "kids",
+      "category": "Girls Clothing (2–14Y)",
+      "subcategory": "Girls Clothing (2–14Y)",
+      "price": 899,
+      "originalPrice": 1999,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 810,
+      "stock": 30,
+      "sizes": [
+        "3–4 Years",
+        "5–6 Years",
+        "7–8 Years",
+        "9–10 Years"
+      ],
+      "colors": [
+        "Fuchsia Pink",
+        "Sky Blue",
+        "Pastel Peach"
+      ],
+      "description": "Charming multi-layered shimmer net dress with satin sash and floral waist brooch. Pure soft cotton inner lining protects delicate children’s skin.",
+      "specifications": {
+        "Lining": "100% Anti-Allergic Pure Cotton",
+        "Closure": "Concealed Back Zipper",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "kid-3",
+      "name": "Mothercare Pure Organic Cotton Unisex Baby Rompers (Pack of 3)",
+      "brand": "Mothercare",
+      "department": "kids",
+      "category": "Baby Clothing (0–2Y)",
+      "subcategory": "Baby Clothing (0–2Y)",
+      "price": 799,
+      "originalPrice": 1499,
+      "discount": 46,
+      "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 1650,
+      "stock": 50,
+      "sizes": [
+        "0–3 Months",
+        "3–6 Months",
+        "6–12 Months",
+        "12–18 Months"
+      ],
+      "colors": [
+        "Multi Animal Prints"
+      ],
+      "description": "Super-soft combed organic cotton sleepsuits with nickel-free poppers for effortless diaper changes and integral scratch mitts to protect tiny faces.",
+      "specifications": {
+        "Material": "100% GOTS Certified Organic Cotton",
+        "Pack Size": "3 Full-Sleeve Onesies",
+        "Safety": "Nickel-Free Snap Buttons",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "kid-4",
+      "name": "Milton Marvel Insulated Kids Stainless Steel Lunch Box & Bottle",
+      "brand": "Milton",
+      "department": "kids",
+      "category": "Lunch Boxes & Bottles",
+      "subcategory": "Lunch Boxes & Bottles",
+      "price": 649,
+      "originalPrice": 999,
+      "discount": 35,
+      "image": "https://images.unsplash.com/photo-1584990347449-366a6a968600?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2210,
+      "stock": 70,
+      "colors": [
+        "Spider-Man Red",
+        "Avengers Blue",
+        "Frozen Aqua"
+      ],
+      "description": "Double-walled vacuum insulated food-grade 304 stainless steel lunch container with leakproof silicone seal and matching 500ml sipper bottle.",
+      "specifications": {
+        "Material": "SS 304 Food Grade Stainless Steel",
+        "Features": "BPA Free, Keeps Food Warm for 4 Hours",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "foot-1",
+      "name": "Campus Oxyfit Men Lightweight Running & Gym Shoes",
+      "brand": "Campus",
+      "department": "footwear",
+      "category": "Sports & Running Shoes",
+      "subcategory": "Sports & Running Shoes",
+      "price": 1199,
+      "originalPrice": 1999,
+      "discount": 40,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 4520,
+      "stock": 55,
+      "sizes": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10",
+        "UK 11"
+      ],
+      "colors": [
+        "Pitch Black & Neon",
+        "Slate Grey & Orange",
+        "Navy & White"
+      ],
+      "description": "High-rebound Phylon midsole cushions every stride while the breathable engineered mesh upper keeps feet cool and sweat-free on morning runs.",
+      "specifications": {
+        "Sole Material": "Phylon + Anti-Skid Rubber Pods",
+        "Closure": "Lace-Up",
+        "Ideal For": "Running, Walking, Gym Training",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Best Value"
+    },
+    {
+      "id": "foot-2",
+      "name": "Bata Formal Slip-On Genuine Leather Derby Shoes",
+      "brand": "Bata",
+      "department": "footwear",
+      "category": "Men Formal Shoes",
+      "subcategory": "Men Formal Shoes",
+      "price": 1599,
+      "originalPrice": 2499,
+      "discount": 36,
+      "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 1890,
+      "stock": 35,
+      "sizes": [
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Burnished Tan",
+        "Polished Black"
+      ],
+      "description": "Timeless formal shoes made from hand-buffed full-grain leather with cushioned memory foam footbed and durable TPR sole for all-day office comfort.",
+      "specifications": {
+        "Upper": "Genuine Full-Grain Leather",
+        "Insole": "Cushioned Memory Foam",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "foot-3",
+      "name": "Red Tape Men Retro Casual Lifestyle Court Sneakers",
+      "brand": "Red Tape",
+      "department": "footwear",
+      "category": "Casual Sneakers",
+      "subcategory": "Casual Sneakers",
+      "price": 1699,
+      "originalPrice": 5699,
+      "discount": 70,
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3820,
+      "stock": 45,
+      "sizes": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Off White & Forest Green",
+        "Triple White",
+        "White & Navy"
+      ],
+      "description": "Clean vintage tennis aesthetic with perforated toe box, padded ankle collar, and high-traction rubber cupsole. The quintessential everyday sneaker.",
+      "specifications": {
+        "Upper": "Synthetic PU with Suede Accents",
+        "Toe Style": "Round Toe Perforated",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "70% OFF"
+    },
+    {
+      "id": "foot-4",
+      "name": "Metro Women Embellished Wedge Heel Party Sandals",
+      "brand": "Metro",
+      "department": "footwear",
+      "category": "Women Flats & Heels",
+      "subcategory": "Women Flats & Heels",
+      "price": 1499,
+      "originalPrice": 2899,
+      "discount": 48,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 970,
+      "stock": 25,
+      "sizes": [
+        "UK 4",
+        "UK 5",
+        "UK 6",
+        "UK 7",
+        "UK 8"
+      ],
+      "colors": [
+        "Champagne Gold",
+        "Rose Gold",
+        "Silver Sparkle"
+      ],
+      "description": "Stunning crystal stone embellished straps with comfortable 2.5-inch wedge heel and padded footbed that keeps you dancing at wedding receptions.",
+      "specifications": {
+        "Heel Height": "2.5 Inches Wedge",
+        "Insole": "Orthopedic Soft Foam Cushion",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "beau-1",
+      "name": "Minimalist 10% Niacinamide Face Serum with Zinc PCA",
+      "brand": "Minimalist",
+      "department": "beauty",
+      "category": "Serums & Treatments",
+      "subcategory": "Serums & Treatments",
+      "price": 569,
+      "originalPrice": 599,
+      "discount": 5,
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 6890,
+      "stock": 90,
+      "sizes": [
+        "30 ml Bottle"
+      ],
+      "description": "Pure 10% Niacinamide (Vitamin B3) paired with Zinc reduces acne marks, regulates excess sebum production, and strengthens skin barrier in 2 weeks.",
+      "specifications": {
+        "Active Ingredients": "10% Niacinamide + 1% Zinc PCA + EUK-134",
+        "Skin Type": "All Skin Types (Acne Prone & Oily)",
+        "Free From": "Fragrance Free, Silicones Free, Sulfate Free",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true,
+      "badge": "Holy Grail"
+    },
+    {
+      "id": "beau-2",
+      "name": "Mamaearth Onion Hair Oil for Hair Fall Control with Redensyl",
+      "brand": "Mamaearth",
+      "department": "beauty",
+      "category": "Hair Oils & Masks",
+      "subcategory": "Hair Oils & Masks",
+      "price": 359,
+      "originalPrice": 419,
+      "discount": 14,
+      "image": "https://images.unsplash.com/photo-1608248597359-54876b6d5bf1?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 5400,
+      "stock": 75,
+      "sizes": [
+        "150 ml with Comb Applicator",
+        "250 ml"
+      ],
+      "description": "Rich in sulfur, potassium, and antioxidants, onion seed oil revitalizes hair roots, accelerates healthy growth, and prevents premature breakage.",
+      "specifications": {
+        "Volume": "150 ml",
+        "Certifications": "Dermatologically Tested, Made Safe Certified",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "beau-3",
+      "name": "Plum 1% Niacinamide & Rice Water Sunscreen Gel SPF 50 PA++++",
+      "brand": "Plum",
+      "department": "beauty",
+      "category": "Sunscreens & SPF",
+      "subcategory": "Sunscreens & SPF",
+      "price": 499,
+      "originalPrice": 650,
+      "discount": 23,
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3890,
+      "stock": 65,
+      "sizes": [
+        "50 g Tube"
+      ],
+      "description": "Broad spectrum hybrid sunscreen leaves zero white cast. Fermented rice water gives a glowing dewy finish without feeling greasy or heavy in humid Indian weather.",
+      "specifications": {
+        "Protection": "SPF 50+ Broad Spectrum PA++++",
+        "Finish": "Invisible Ultralight Gel",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "beau-4",
+      "name": "Lakmé Forever Matte Liquid Lip Color (16-Hour Stay)",
+      "brand": "Lakmé",
+      "department": "beauty",
+      "category": "Lipsticks & Makeup",
+      "subcategory": "Lipsticks & Makeup",
+      "price": 249,
+      "originalPrice": 349,
+      "discount": 28,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 4120,
+      "stock": 80,
+      "colors": [
+        "Red Sangria",
+        "Nude Dream",
+        "Berry Pink",
+        "Mauve Twist"
+      ],
+      "description": "Intense matte color payoff that locks onto lips comfortably for up to 16 hours without smudging, feathering, or drying out.",
+      "specifications": {
+        "Finish": "Velveteen Non-Drying Matte",
+        "Coverage": "Full Pigment One-Swipe",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "mob-1",
+      "name": "boAt Airdopes 141 ANC Bluetooth Wireless Earbuds (42H Playback)",
+      "brand": "boAt",
+      "department": "mobiles",
+      "category": "True Wireless Earbuds",
+      "subcategory": "True Wireless Earbuds",
+      "price": 1299,
+      "originalPrice": 4490,
+      "discount": 71,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 8900,
+      "stock": 60,
+      "colors": [
+        "Bold Black",
+        "Cider Orange",
+        "White Purity"
+      ],
+      "description": "Up to 32dB active noise cancellation with ENx quad mic technology for crystal-clear calling. Beast Mode ultra-low latency (50ms) for high-octane mobile gaming.",
+      "specifications": {
+        "Battery Life": "Up to 42 Hours Total Playtime",
+        "Fast Charge": "ASAP Charge: 10 mins = 75 mins playtime",
+        "Water Resistance": "IPX5 Splash & Sweat Resistant",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "71% OFF"
+    },
+    {
+      "id": "mob-2",
+      "name": "Noise ColorFit Pulse 3 Smart Watch with 1.96\" TFT Display & BT Calling",
+      "brand": "Noise",
+      "department": "mobiles",
+      "category": "Smartphones",
+      "subcategory": "Smartphones",
+      "price": 1499,
+      "originalPrice": 4999,
+      "discount": 70,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 6420,
+      "stock": 45,
+      "colors": [
+        "Jet Black",
+        "Rose Pink",
+        "Midnight Blue"
+      ],
+      "description": "Vibrant 1.96-inch curved display with 550 nits peak brightness. Built-in dial pad and Tru Sync Bluetooth calling with 100+ cloud watch faces.",
+      "specifications": {
+        "Display": "1.96\" TFT (240x282 px, 550 Nits)",
+        "Battery": "7 Days Battery on Regular Use",
+        "Health": "24/7 Heart Rate, SpO2 & Sleep Tracking",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "Mega Deal"
+    },
+    {
+      "id": "mob-3",
+      "name": "Portronics Power Plate 7 Multi-Plug Extension Board with 65W Fast USB",
+      "brand": "Portronics",
+      "department": "mobiles",
+      "category": "Fast Chargers & Adapters",
+      "subcategory": "Fast Chargers & Adapters",
+      "price": 899,
+      "originalPrice": 1999,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2310,
+      "stock": 50,
+      "colors": [
+        "White & Grey"
+      ],
+      "description": "Equipped with 4 universal AC power sockets and 3 USB ports including 1 Type-C PD 20W port. Surge protection safeguards expensive appliances.",
+      "specifications": {
+        "Cord Length": "3 Meters Heavy Duty Copper Wire",
+        "Safety": "Spike & Surge Protection (2500W Max)",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "mob-4",
+      "name": "Realme 20000mAh 18W Two-Way Fast Charging Power Bank",
+      "brand": "Realme",
+      "department": "mobiles",
+      "category": "Power Banks",
+      "subcategory": "Power Banks",
+      "price": 1599,
+      "originalPrice": 2499,
+      "discount": 36,
+      "image": "https://images.unsplash.com/photo-1609592426868-842426466f21?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4180,
+      "stock": 35,
+      "colors": [
+        "Matte Black",
+        "Canary Yellow"
+      ],
+      "description": "High-density Lithium Polymer battery with 14 layers of circuit protection. Charges iPhone and Android smartphones up to 4.5 times on a single charge.",
+      "specifications": {
+        "Capacity": "20,000 mAh High-Density Li-Po",
+        "Ports": "Dual USB-A Output + 1 Type-C Two-Way Port",
+        "Weight": "425 g",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "elec-1",
+      "name": "boAt Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound",
+      "brand": "boAt",
+      "department": "electronics",
+      "category": "Bluetooth Speakers",
+      "subcategory": "Bluetooth Speakers",
+      "price": 1499,
+      "originalPrice": 3490,
+      "discount": 57,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 5210,
+      "stock": 40,
+      "colors": [
+        "Raging Black",
+        "Raging Red",
+        "Army Green"
+      ],
+      "description": "Rugged portable cylinder design with 10W punchy bass drivers, IPX7 water resistance, and 12-hour continuous battery life for beach and trekking parties.",
+      "specifications": {
+        "Sound Output": "10W RMS Stereo",
+        "Playtime": "Up to 12 Hours",
+        "Protection": "IPX7 Waterproof",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "57% OFF"
+    },
+    {
+      "id": "elec-2",
+      "name": "SanDisk Ultra Dual 128GB USB 3.1 Type-C OTG Pen Drive",
+      "brand": "SanDisk",
+      "department": "electronics",
+      "category": "External Storage & SSDs",
+      "subcategory": "External Storage & SSDs",
+      "price": 1149,
+      "originalPrice": 2200,
+      "discount": 48,
+      "image": "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 7890,
+      "stock": 110,
+      "sizes": [
+        "64 GB",
+        "128 GB",
+        "256 GB"
+      ],
+      "description": "Swivel design featuring reversible USB Type-C on one end and traditional USB Type-A on the other. Blazing read speeds up to 150MB/s.",
+      "specifications": {
+        "Read Speed": "Up to 150 MB/s",
+        "Connectors": "USB Type-C & Type-A Dual",
+        "Warranty": "5-Year Manufacturer Warranty",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "elec-3",
+      "name": "Logitech K380 Multi-Device Silent Bluetooth Wireless Keyboard",
+      "brand": "Logitech",
+      "department": "electronics",
+      "category": "Keyboards & Mice",
+      "subcategory": "Keyboards & Mice",
+      "price": 2495,
+      "originalPrice": 3295,
+      "discount": 24,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3100,
+      "stock": 30,
+      "colors": [
+        "Off White",
+        "Rose Pink",
+        "Dark Grey"
+      ],
+      "description": "Connect up to 3 devices simultaneously (Laptop, iPad, Smartphone) and switch between them with Easy-Switch buttons. Scoop circular silent keys.",
+      "specifications": {
+        "Compatibility": "Windows, Mac, ChromeOS, Android, iOS",
+        "Battery Life": "24 Months on 2x AAA Batteries",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "home-1",
+      "name": "Prestige Svachh Hard Anodized 3-Litre Pressure Cooker with Deep Lid",
+      "brand": "Prestige",
+      "department": "home_kitchen",
+      "category": "Cookware Sets & Kadhais",
+      "subcategory": "Cookware Sets & Kadhais",
+      "price": 1549,
+      "originalPrice": 2295,
+      "discount": 32,
+      "image": "https://images.unsplash.com/photo-1584990347449-366a6a968600?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4620,
+      "stock": 50,
+      "sizes": [
+        "2 Litre",
+        "3 Litre",
+        "5 Litre"
+      ],
+      "description": "Revolutionary spillage control deep lid prevents frothy dal and starch from spilling down the sides during whistling. Induction and gas stove compatible.",
+      "specifications": {
+        "Capacity": "3 Litres",
+        "Material": "Hard Anodized Aluminum (Non-Reactive)",
+        "Base": "Gas & Induction Compatible",
+        "Warranty": "5 Years Prestige Warranty",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true,
+      "badge": "Cookware Star"
+    },
+    {
+      "id": "home-2",
+      "name": "Butterfly Jet Elite 750W Mixer Grinder with 4 Stainless Steel Jars",
+      "brand": "Butterfly",
+      "department": "home_kitchen",
+      "category": "Mixer Grinders & Blenders",
+      "subcategory": "Mixer Grinders & Blenders",
+      "price": 2999,
+      "originalPrice": 5999,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 3890,
+      "stock": 35,
+      "colors": [
+        "Grey & Orange"
+      ],
+      "description": "High-torque 750-watt heavy duty copper motor grinds hard turmeric, idli batter, and dry masalas effortlessly. Features ergonomic unbreakable handles.",
+      "specifications": {
+        "Motor": "750 Watts Pure Copper",
+        "Jars": "4 Jars (Wet, Dry, Chutney, Juicer)",
+        "Speeds": "3 Speed Control with Incher",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "50% OFF"
+    },
+    {
+      "id": "home-3",
+      "name": "Bombay Dyeing 100% Pure Cotton Queen Double Bedsheet with 2 Pillows",
+      "brand": "Bombay Dyeing",
+      "department": "home_kitchen",
+      "category": "Pure Cotton Bedsheets",
+      "subcategory": "Pure Cotton Bedsheets",
+      "price": 899,
+      "originalPrice": 1999,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 2450,
+      "stock": 45,
+      "colors": [
+        "Jaipur Blue Floral",
+        "Sage Botanical",
+        "Mandala Yellow"
+      ],
+      "description": "Crisp 180 thread count breathable cotton bedsheet that stays smooth wash after wash. Colorfast reactive dyes ensure long-lasting vibrant prints.",
+      "specifications": {
+        "Sheet Size": "228 cm x 254 cm (Queen Size)",
+        "Pillow Covers": "2 Included (46 cm x 69 cm)",
+        "Thread Count": "180 TC Glace Cotton",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "home-4",
+      "name": "Milton Thermosteel Flip Lid Insulated 1000ml Stainless Flask",
+      "brand": "Milton",
+      "department": "home_kitchen",
+      "category": "Insulated Bottles & Flasks",
+      "subcategory": "Insulated Bottles & Flasks",
+      "price": 849,
+      "originalPrice": 1290,
+      "discount": 34,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 5120,
+      "stock": 65,
+      "sizes": [
+        "500 ml",
+        "1000 ml"
+      ],
+      "description": "Double-walled vacuum insulation keeps chai steaming hot for 24 hours or chilled water ice-cold on long car trips. Copper coating inside for optimal temperature retention.",
+      "specifications": {
+        "Capacity": "1000 ml",
+        "Temperature Retention": "24 Hours Hot / 24 Hours Cold",
+        "Material": "18/8 Food Grade Rustproof Steel",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "gym-1",
+      "name": "Boldfit Rubber Encased Hex Dumbbells Set with Chrome Grips",
+      "brand": "Boldfit",
+      "department": "gym_fitness",
+      "category": "Hex Dumbbells & Weights",
+      "subcategory": "Hex Dumbbells & Weights",
+      "price": 1899,
+      "originalPrice": 3499,
+      "discount": 46,
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2890,
+      "stock": 30,
+      "sizes": [
+        "5 kg x 2 Pair",
+        "7.5 kg x 2 Pair",
+        "10 kg x 2 Pair"
+      ],
+      "description": "Anti-roll hexagonal head design with high-density solid cast iron core encased in shock-absorbing rubber to protect your floor. Ergonomic knurled steel handle.",
+      "specifications": {
+        "Weight": "5 kg Each (10 kg Pair Total)",
+        "Core": "Solid Cast Iron",
+        "Coating": "Odor-Free Virgin Rubber",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Fitness Star"
+    },
+    {
+      "id": "gym-2",
+      "name": "Strauss 6mm Dual-Tone Anti-Skid Eco TPE Yoga Mat with Carry Strap",
+      "brand": "Strauss",
+      "department": "gym_fitness",
+      "category": "TPE Yoga Mats",
+      "subcategory": "TPE Yoga Mats",
+      "price": 799,
+      "originalPrice": 1699,
+      "discount": 53,
+      "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 3120,
+      "stock": 55,
+      "colors": [
+        "Teal & Grey",
+        "Purple & Pink",
+        "Navy & Light Blue"
+      ],
+      "description": "Textured double-sided slip-resistant surface gives superior joint cushioning and stability for asanas and HIIT workouts. Moisture-resistant closed-cell technology.",
+      "specifications": {
+        "Thickness": "6 mm High Density",
+        "Material": "Non-Toxic Eco-Friendly TPE",
+        "Dimensions": "183 cm x 61 cm",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "gym-3",
+      "name": "Boldfit Tyro 700ml Gym Shaker Bottle with Wire Whisk Ball",
+      "brand": "Boldfit",
+      "department": "gym_fitness",
+      "category": "Gym Shakers & Sippers",
+      "subcategory": "Gym Shakers & Sippers",
+      "price": 249,
+      "originalPrice": 499,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 5600,
+      "stock": 120,
+      "colors": [
+        "Neon Green",
+        "Smoke Black",
+        "Cobalt Blue"
+      ],
+      "description": "100% leakproof lock cap with stainless steel blending whisk ball for lump-free protein shakes and pre-workout drinks. Embossed ounce and milliliter markings.",
+      "specifications": {
+        "Capacity": "700 ml",
+        "Safety": "BPA & Phthalate Free Food Grade Plastic",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "Under ₹250"
+    },
+    {
+      "id": "spo-1",
+      "name": "SG Club Kashmir Willow Full Size Leather Ball Cricket Bat",
+      "brand": "SG",
+      "department": "sports",
+      "category": "Cricket Bats & Gear",
+      "subcategory": "Cricket Bats & Gear",
+      "price": 1899,
+      "originalPrice": 2899,
+      "discount": 34,
+      "image": "https://images.unsplash.com/photo-1531415074868-036b107e775a?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1420,
+      "stock": 25,
+      "sizes": [
+        "Size 6 (Youth)",
+        "Full Size (Men)"
+      ],
+      "description": "Carefully shaped from select Kashmir willow with thick curved edges and large sweet spot. Fitted with imported cane handle and multi-piece rubber grip.",
+      "specifications": {
+        "Willow": "Grade 1 Kashmir Willow",
+        "Handle": "Round Sarawak Cane",
+        "Edge Thickness": "38–40 mm",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "spo-2",
+      "name": "Yonex GR 303 Lightweight Aluminum Badminton Racquets (Set of 2)",
+      "brand": "Yonex",
+      "department": "sports",
+      "category": "Badminton Racquets & Shuttlecocks",
+      "subcategory": "Badminton Racquets & Shuttlecocks",
+      "price": 1099,
+      "originalPrice": 1790,
+      "discount": 39,
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3890,
+      "stock": 40,
+      "colors": [
+        "Blue & Red Duo"
+      ],
+      "description": "Isometric head shape enlarges the sweet spot by 7% for higher accuracy and explosive smashes. Comes pre-strung with Yonex durable strings and full zip cover.",
+      "specifications": {
+        "Weight": "U (95–99.9g)",
+        "Grip Size": "G4",
+        "Set Contains": "2 Racquets + 1 Head Cover",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "spo-3",
+      "name": "Cosco Milano High Grip Rubber Outer Football (Size 5)",
+      "brand": "Cosco",
+      "department": "sports",
+      "category": "Footballs & Accessories",
+      "subcategory": "Footballs & Accessories",
+      "price": 549,
+      "originalPrice": 850,
+      "discount": 35,
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 1680,
+      "stock": 50,
+      "colors": [
+        "White & Black Geometric"
+      ],
+      "description": "Built with molded rubber outer layer and nylon winding for consistent bounce on rough gravel grounds, concrete turfs, and natural grass fields.",
+      "specifications": {
+        "Size": "Standard Match Size 5",
+        "Bladder": "Latex Bladder for Optimal Air Retention",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "toy-1",
+      "name": "Funskool Monopoly Deluxe India Edition Family Board Game",
+      "brand": "Funskool",
+      "department": "toys_games",
+      "category": "Board Games & Chess",
+      "subcategory": "Board Games & Chess",
+      "price": 749,
+      "originalPrice": 1199,
+      "discount": 38,
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 2450,
+      "stock": 35,
+      "description": "Buy, rent, and trade famous properties across Mumbai, Delhi, Bengaluru, and Kolkata in this fast-paced classic Indian real estate board game.",
+      "specifications": {
+        "Players": "2 to 6 Players",
+        "Age Recommendation": "8 Years and Above",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "toy-2",
+      "name": "Lego Classic Large Creative Brick Box Construction Set (790 Pcs)",
+      "brand": "LEGO",
+      "department": "toys_games",
+      "category": "Building Block Sets",
+      "subcategory": "Building Block Sets",
+      "price": 3499,
+      "originalPrice": 4999,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 1890,
+      "stock": 20,
+      "description": "Includes 790 colorful bricks in 33 different colors with windows, doors, toy eyes, wheels, and green baseplates to ignite limitless child imagination.",
+      "specifications": {
+        "Pieces": "790 Construction Elements",
+        "Storage": "Includes Reusable Plastic Storage Box",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "book-1",
+      "name": "Atomic Habits by James Clear (Indian Edition PaperBack)",
+      "brand": "Penguin",
+      "department": "books_stationery",
+      "category": "Self-Help & Business Books",
+      "subcategory": "Self-Help & Business Books",
+      "price": 399,
+      "originalPrice": 799,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 9200,
+      "stock": 85,
+      "description": "The international sensation with over 15 million copies sold. Simple, proven framework to build good habits, break bad ones, and achieve remarkable results.",
+      "specifications": {
+        "Format": "Paperback",
+        "Pages": "320 Pages",
+        "Language": "English",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true,
+      "badge": "National Bestseller"
+    },
+    {
+      "id": "book-2",
+      "name": "Classmate Pulse 6-Subject Spiral Bound Long Notebooks (Pack of 3)",
+      "brand": "Classmate",
+      "department": "books_stationery",
+      "category": "Classmate Notebooks & Registers",
+      "subcategory": "Classmate Notebooks & Registers",
+      "price": 349,
+      "originalPrice": 450,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3100,
+      "stock": 90,
+      "sizes": [
+        "300 Pages (Single Line)"
+      ],
+      "description": "Eco-friendly chlorine-free paper with smooth whiteness for effortless fountain and gel pen writing. Movable color-coded index separators for 6 subjects.",
+      "specifications": {
+        "Paper Weight": "70 GSM Extra White",
+        "Ruling": "Single Line Ruled",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "jew-1",
+      "name": "Zaveri Pearls 24K Gold-Plated Kundan Choker Necklace Set with Maangtikka",
+      "brand": "Zaveri Pearls",
+      "department": "jewellery",
+      "category": "Kundan & Pearl Necklaces",
+      "subcategory": "Kundan & Pearl Necklaces",
+      "price": 599,
+      "originalPrice": 2495,
+      "discount": 76,
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 2310,
+      "stock": 40,
+      "colors": [
+        "Mint Green Beads",
+        "Royal Ruby Red",
+        "Classic Pearl White"
+      ],
+      "description": "Handcrafted bridal choker embedded with uncut Kundan stones, cluster pearls, and green enamel meenakari work. Paired with matching jhumkis and maangtikka.",
+      "specifications": {
+        "Base Metal": "Brass with 24K Micron Gold Plating",
+        "Set Includes": "1 Choker + 1 Pair Earrings + 1 Maangtikka",
+        "Closure": "Adjustable Dori Cord",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "76% OFF"
+    },
+    {
+      "id": "jew-2",
+      "name": "GIVA 925 Sterling Silver Classic Solitaire Zircon Pendant Necklace",
+      "brand": "GIVA",
+      "department": "jewellery",
+      "category": "Mangalsutras & Pendants",
+      "subcategory": "Mangalsutras & Pendants",
+      "price": 1399,
+      "originalPrice": 2999,
+      "discount": 53,
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1890,
+      "stock": 25,
+      "description": "Hallmarked 925 silver pendant studded with AAA+ graded lab-grown zircon. Rhodium plated to prevent tarnishing with certificate of authenticity.",
+      "specifications": {
+        "Metal": "Authentic 925 Sterling Silver",
+        "Stone": "AAA+ Cubic Zirconia",
+        "Chain Length": "16 Inch + 2 Inch Adjustable Extension",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "bag-1",
+      "name": "Skybags Trooper 55cm Hard-Shell Polycarbonate Cabin Trolley Bag",
+      "brand": "Skybags",
+      "department": "bags_luggage",
+      "category": "Cabin Trolley Bags",
+      "subcategory": "Cabin Trolley Bags",
+      "price": 2199,
+      "originalPrice": 6200,
+      "discount": 65,
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3410,
+      "stock": 35,
+      "colors": [
+        "Electric Blue",
+        "Slate Grey",
+        "Wine Red"
+      ],
+      "description": "Ultra-lightweight impact-resistant hard polycarbonate shell with 360-degree silent 8-wheel spinner system and flush-mount combination lock.",
+      "specifications": {
+        "Size": "55 cm (Compliant with Airline Cabin Overhead Bins)",
+        "Lock Type": "Integrated Number Combination Lock",
+        "Warranty": "3 Years International Warranty",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "65% OFF"
+    },
+    {
+      "id": "bag-2",
+      "name": "Wildcraft 35L Water-Resistant Padded Laptop Backpack",
+      "brand": "Wildcraft",
+      "department": "bags_luggage",
+      "category": "Laptop Backpacks",
+      "subcategory": "Laptop Backpacks",
+      "price": 1299,
+      "originalPrice": 2499,
+      "discount": 48,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4100,
+      "stock": 50,
+      "colors": [
+        "Charcoal & Red",
+        "All Black",
+        "Navy Blue"
+      ],
+      "description": "Triple-compartment daily commuter bag with padded 15.6-inch laptop sleeve, air-mesh ergonomic back system, and rain-resistant coated polyester.",
+      "specifications": {
+        "Capacity": "35 Litres",
+        "Laptop Compatibility": "Up to 15.6 Inches",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "hea-1",
+      "name": "Dabur Chyawanprash with 2X Immunity Boost (Amla & 40+ Herbs)",
+      "brand": "Dabur",
+      "department": "health_wellness",
+      "category": "Immunity Boosters & Chyawanprash",
+      "subcategory": "Immunity Boosters & Chyawanprash",
+      "price": 395,
+      "originalPrice": 450,
+      "discount": 12,
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 6200,
+      "stock": 90,
+      "sizes": [
+        "1 kg Tub",
+        "2 kg Value Pack"
+      ],
+      "description": "Clinically tested Ayurvedic formulation based on ancient Charak Samhita. Fortifies natural killer cells to fight seasonal cold, cough, and allergies.",
+      "specifications": {
+        "Net Weight": "1 kg",
+        "Key Herb": "Fresh Amla (Gooseberry)",
+        "Dosage": "1 Teaspoon twice daily with warm milk",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true
+    },
+    {
+      "id": "hea-2",
+      "name": "MuscleBlaze Raw Whey Protein Concentrate 80% Unflavored (1 kg)",
+      "brand": "MuscleBlaze",
+      "department": "health_wellness",
+      "category": "Whey Protein & Creatine",
+      "subcategory": "Whey Protein & Creatine",
+      "price": 1899,
+      "originalPrice": 2699,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3820,
+      "stock": 45,
+      "sizes": [
+        "1 kg Pouch",
+        "2 kg Tub"
+      ],
+      "description": "Certified by Labdoor USA for purity and label accuracy. Delivers 24g pure whey protein, 5.2g BCAAs, and zero added sugar or artificial flavor.",
+      "specifications": {
+        "Protein per Scoop": "24g Protein per 30g Serving",
+        "Flavor": "100% Raw Unflavored",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "hous-1",
+      "name": "Surf Excel Matic Front Load Liquid Detergent (3.2 Litre Value Refill)",
+      "brand": "Surf Excel",
+      "department": "household",
+      "category": "Detergent Liquids & Powders",
+      "subcategory": "Detergent Liquids & Powders",
+      "price": 649,
+      "originalPrice": 850,
+      "discount": 24,
+      "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 5410,
+      "stock": 80,
+      "sizes": [
+        "3.2 Litre Pouch"
+      ],
+      "description": "Engineered specifically for high-efficiency washing machines. Dissolves instantly in water without leaving powdery white residue on dark fabrics.",
+      "specifications": {
+        "Form": "Concentrated Liquid Detergent",
+        "Machine Type": "Front Load Automatic",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true
+    },
+    {
+      "id": "hous-2",
+      "name": "Lizol Citrus Disinfectant Floor Cleaner Liquid (2 Litre Family Pack)",
+      "brand": "Lizol",
+      "department": "household",
+      "category": "Floor Cleaners & Disinfectants",
+      "subcategory": "Floor Cleaners & Disinfectants",
+      "price": 360,
+      "originalPrice": 440,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 4120,
+      "stock": 75,
+      "sizes": [
+        "2 Litres"
+      ],
+      "colors": [
+        "Zesty Citrus",
+        "Floral Floral",
+        "Lavender Bloom"
+      ],
+      "description": "Kills 99.9% of disease-causing germs and removes 100 tough stains. Leaves marble, granite, and ceramic tiles with a sparkling streak-free shine.",
+      "specifications": {
+        "Volume": "2 Litres",
+        "Efficacy": "Kills 99.9% Germs (IMA Recommended)",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "pet-1",
+      "name": "Pedigree Adult Dry Dog Food Meat & Rice Flavour (3 kg Pack)",
+      "brand": "Pedigree",
+      "department": "pet_supplies",
+      "category": "Dog Food & Biscuits",
+      "subcategory": "Dog Food & Biscuits",
+      "price": 749,
+      "originalPrice": 950,
+      "discount": 21,
+      "image": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2980,
+      "stock": 60,
+      "sizes": [
+        "3 kg",
+        "10 kg"
+      ],
+      "description": "Formulated with Waltham Centre nutritionists. Provides balanced calcium, phosphorus, and zinc to support strong teeth, muscles, and glowing fur.",
+      "specifications": {
+        "Life Stage": "Adult Dogs (1+ Years)",
+        "Flavor": "Chicken & Rice with Vegetables",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "pet-2",
+      "name": "Whiskas Adult Cat Wet Food Tuna in Jelly (Pack of 12 x 85g)",
+      "brand": "Whiskas",
+      "department": "pet_supplies",
+      "category": "Cat Food & Gravy Pouches",
+      "subcategory": "Cat Food & Gravy Pouches",
+      "price": 499,
+      "originalPrice": 660,
+      "discount": 24,
+      "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1840,
+      "stock": 45,
+      "description": "Real ocean tuna fillets suspended in flavorful jelly. Supplies natural moisture to prevent urinary tract issues common in domesticated felines.",
+      "specifications": {
+        "Pack": "12 Pouches x 85g Each",
+        "Protein": "Min 8.5% Crude Protein",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "auto-1",
+      "name": "Bergmann Typhoon Heavy-Duty Digital Auto Car Tyre Inflator (150 PSI)",
+      "brand": "Bergmann",
+      "department": "automotive",
+      "category": "Digital Tyre Inflators",
+      "subcategory": "Digital Tyre Inflators",
+      "price": 1899,
+      "originalPrice": 3500,
+      "discount": 46,
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 2190,
+      "stock": 35,
+      "description": "Inflates a standard car tyre from 0 to 30 PSI in under 2 minutes. Digital backlit LCD screen with automatic auto-shutoff when desired pressure is reached.",
+      "specifications": {
+        "Max Pressure": "150 PSI",
+        "Power Source": "12V DC Car Cigarette Lighter Socket",
+        "Cable Length": "3.5 Meters Extra Long Cord",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Car Must-Have"
+    },
+    {
+      "id": "auto-2",
+      "name": "Godrej aer O Car Air Freshener Hanging Pod (Cool Surf Blue, 3-Pack)",
+      "brand": "Godrej aer",
+      "department": "automotive",
+      "category": "Car Fragrances & Gels",
+      "subcategory": "Car Fragrances & Gels",
+      "price": 349,
+      "originalPrice": 450,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 3410,
+      "stock": 70,
+      "colors": [
+        "Cool Surf Blue",
+        "Musk After Smoke",
+        "Petal Crush Pink"
+      ],
+      "description": "Membrane diffusion technology delivers uninterrupted fragrant ocean breeze notes inside your vehicle for up to 60 days per pod without spill risk.",
+      "specifications": {
+        "Pack Size": "Pack of 3 Fragrance Pods",
+        "Lifespan": "Up to 60 Days per Pod",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "gift-1",
+      "name": "Cadbury Celebrations Rich Dry Fruit & Chocolate Festive Gift Box",
+      "brand": "Cadbury",
+      "department": "gifts",
+      "category": "Artisanal Chocolate Hampers",
+      "subcategory": "Artisanal Chocolate Hampers",
+      "price": 499,
+      "originalPrice": 650,
+      "discount": 23,
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3950,
+      "stock": 80,
+      "description": "Gold-embossed royal gift box loaded with Dairy Milk Silk, roast almond bites, hazelnut pralines, and whole cashews. The quintessential Diwali and Rakhi gift.",
+      "specifications": {
+        "Weight": "450 g",
+        "Diet": "100% Vegetarian",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isDeal": true,
+      "badge": "Festive Favorite"
+    },
+    {
+      "id": "gift-2",
+      "name": "Phool Natural Organic Scented Soy Wax Candles in Ceramic Pots (Set of 4)",
+      "brand": "Phool",
+      "department": "gifts",
+      "category": "Aromatherapy Candle Sets",
+      "subcategory": "Aromatherapy Candle Sets",
+      "price": 799,
+      "originalPrice": 1299,
+      "discount": 38,
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1240,
+      "stock": 40,
+      "description": "Hand-poured into reusable terracotta matkas infused with pure essential oils of Nargis, Sandalwood, Jasmine, and Lemongrass. Smokeless clean burn.",
+      "specifications": {
+        "Wax": "100% Pure Plant-Based Soy Wax",
+        "Burn Time": "28 Hours Per Pot",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "groc-16",
+      "name": "Saffola Gold Pro Healthy Lifestyle Blended Cooking Oil",
+      "brand": "Saffola",
+      "department": "grocery",
+      "category": "Cooking Oil",
+      "subcategory": "Cooking Oil",
+      "price": 195,
+      "originalPrice": 245,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3120,
+      "stock": 70,
+      "sizes": [
+        "1 Litre Pouch",
+        "5 Litre Jar"
+      ],
+      "description": "Dual-seed technology blend of 80% refined rice bran oil and 20% refined sunflower oil with natural antioxidants to help manage cholesterol.",
+      "specifications": {
+        "Net Quantity": "1 Litre",
+        "Type": "Blended Edible Vegetable Oil",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "groc-17",
+      "name": "Tata Sampann Turmeric Powder (Haldi) with Minimum 3% Curcumin",
+      "brand": "Tata Sampann",
+      "department": "grocery",
+      "category": "Spices & Masala",
+      "subcategory": "Spices & Masala",
+      "price": 65,
+      "originalPrice": 85,
+      "discount": 23,
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 4200,
+      "stock": 120,
+      "sizes": [
+        "200 g",
+        "500 g"
+      ],
+      "description": "Pure sun-dried whole Salem turmeric fingers with guaranteed natural active curcumin content for vibrant golden color and authentic medicinal properties.",
+      "specifications": {
+        "Net Quantity": "200 g",
+        "Curcumin": "Guaranteed Min 3%",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "groc-18",
+      "name": "Brooke Bond Red Label Natural Care Tea with 5 Ayurvedic Herbs",
+      "brand": "Brooke Bond",
+      "department": "grocery",
+      "category": "Tea & Coffee",
+      "subcategory": "Tea & Coffee",
+      "price": 330,
+      "originalPrice": 390,
+      "discount": 15,
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 5200,
+      "stock": 85,
+      "sizes": [
+        "500 g",
+        "1 kg"
+      ],
+      "description": "Enriched with goodness of Tulsi, Ashwagandha, Mulethi, Ginger, and Cardamom. Clinically proven to enhance immunity against common sickness.",
+      "specifications": {
+        "Net Quantity": "500 g",
+        "Ingredients": "CTC Black Tea + 5 Ayurvedic Herbs",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "groc-19",
+      "name": "Cadbury Dairy Milk Silk Bubbly Chocolate Bar",
+      "brand": "Cadbury",
+      "department": "grocery",
+      "category": "Chocolates & Sweets",
+      "subcategory": "Chocolates & Sweets",
+      "price": 175,
+      "originalPrice": 195,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 7100,
+      "stock": 90,
+      "sizes": [
+        "120 g Bar"
+      ],
+      "description": "Velvety smooth milk chocolate loaded with bubbly aerated pockets that melt deliciously inside the mouth.",
+      "specifications": {
+        "Net Quantity": "120 g",
+        "Dietary Preference": "Vegetarian",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "groc-20",
+      "name": "Epigamia Natural Greek Yogurt High-Protein Tub",
+      "brand": "Epigamia",
+      "department": "grocery",
+      "category": "Dairy & Ghee",
+      "subcategory": "Dairy & Ghee",
+      "price": 90,
+      "originalPrice": 100,
+      "discount": 10,
+      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1540,
+      "stock": 40,
+      "sizes": [
+        "400 g Tub"
+      ],
+      "description": "Traditional strained yogurt with thick creamy texture and twice the protein of ordinary dahi. Zero preservatives or gelatin.",
+      "specifications": {
+        "Net Quantity": "400 g",
+        "Protein": "6g Protein per 100g",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "wom-9",
+      "name": "Aurelia Festive Foil Print Flared Calf-Length Skirt",
+      "brand": "Aurelia",
+      "department": "womens_fashion",
+      "category": "Ethnic Wear & Lehengas",
+      "subcategory": "Ethnic Wear & Lehengas",
+      "price": 999,
+      "originalPrice": 2499,
+      "discount": 60,
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 680,
+      "stock": 30,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Emerald Gold",
+        "Ruby Wine"
+      ],
+      "description": "Glamorous festive skirt with glistening golden foil motifs, elasticated back waistband, and matching tasseled dori.",
+      "specifications": {
+        "Fabric": "Art Silk Blend with Lurex",
+        "Length": "38 Inches Flared",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "60% OFF"
+    },
+    {
+      "id": "wom-10",
+      "name": "Global Desi Bohemian Embroidered Tiered Tunic Top",
+      "brand": "Global Desi",
+      "department": "womens_fashion",
+      "category": "Tops & Tunics",
+      "subcategory": "Tops & Tunics",
+      "price": 849,
+      "originalPrice": 1899,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 520,
+      "stock": 25,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Mustard Bohemian",
+        "Indigo Rust"
+      ],
+      "description": "Boho chic peasant tunic with bell sleeves, contrast thread embroidery on yoke, and breathable cotton slub fabric.",
+      "specifications": {
+        "Fabric": "100% Cotton Slub",
+        "Neck": "Keyhole Neck with Tie-Up",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "wom-11",
+      "name": "Zivame Soft Stretch Cotton Wirefree Padded Daily T-Shirt Bra",
+      "brand": "Zivame",
+      "department": "womens_fashion",
+      "category": "T-Shirts",
+      "subcategory": "T-Shirts",
+      "price": 499,
+      "originalPrice": 999,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3410,
+      "stock": 60,
+      "sizes": [
+        "32B",
+        "34B",
+        "34C",
+        "36B",
+        "36C",
+        "38B"
+      ],
+      "colors": [
+        "Nude Skin",
+        "Jet Black",
+        "Dusty Rose"
+      ],
+      "description": "Smooth seamless cups provide full invisible coverage under tight tops. Wirefree design ensures zero poking all day.",
+      "specifications": {
+        "Padding": "Seamless Light Foam Pads",
+        "Wire": "Wirefree Support",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "wom-12",
+      "name": "Fastrack Cat-Eye UV400 Polarized Sunglasses for Women",
+      "brand": "Fastrack",
+      "department": "womens_fashion",
+      "category": "Fashion Jewellery",
+      "subcategory": "Fashion Jewellery",
+      "price": 799,
+      "originalPrice": 1599,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1120,
+      "stock": 45,
+      "colors": [
+        "Tortoise Shell Gold",
+        "Glossy Black"
+      ],
+      "description": "Bold statement cat-eye frames fitted with 100% UV400 protective polarized lenses that cut glaring reflections in sunny cities.",
+      "specifications": {
+        "Frame Material": "Hypoallergenic Acetate",
+        "Lens": "UV400 Polarized Gradient",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "men-7",
+      "name": "Van Heusen Ultra-Soft Supima Cotton Crew Neck T-Shirt",
+      "brand": "Van Heusen",
+      "department": "mens_fashion",
+      "category": "T-Shirts & Polos",
+      "subcategory": "T-Shirts & Polos",
+      "price": 599,
+      "originalPrice": 1199,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2780,
+      "stock": 75,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Charcoal Heather",
+        "Pure White",
+        "Deep Navy"
+      ],
+      "description": "Crafted with premium American Supima cotton for exceptional softness, breathability, and color vibrancy that lasts wash after wash.",
+      "specifications": {
+        "Fabric": "100% Supima Cotton (180 GSM)",
+        "Fit": "Smart Slim Fit",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "men-8",
+      "name": "Fastrack Casual Heavy-Duty Automatic Buckle Leather Belt",
+      "brand": "Fastrack",
+      "department": "mens_fashion",
+      "category": "Watches & Wallets",
+      "subcategory": "Watches & Wallets",
+      "price": 499,
+      "originalPrice": 995,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1940,
+      "stock": 55,
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40"
+      ],
+      "colors": [
+        "Burnished Tan",
+        "Midnight Black"
+      ],
+      "description": "Made from durable bonded leather with an engineered automatic ratchet buckle for micro-adjustments without pin holes.",
+      "specifications": {
+        "Width": "35 mm Standard Width",
+        "Buckle": "Zinc Alloy Gunmetal Matte",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "men-9",
+      "name": "Jockey Athleisure Cotton Moisture-Wicking Track Pants",
+      "brand": "Jockey",
+      "department": "mens_fashion",
+      "category": "Track Pants & Joggers",
+      "subcategory": "Track Pants & Joggers",
+      "price": 1099,
+      "originalPrice": 1499,
+      "discount": 27,
+      "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 4210,
+      "stock": 65,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Melange Grey",
+        "Navy Blue",
+        "Jet Black"
+      ],
+      "description": "Super combed cotton rich terry fabric with StayFresh microbial treatment and deep zippered side pockets for keys and phone.",
+      "specifications": {
+        "Pockets": "2 Zipper Pockets + 1 Back Pocket",
+        "Waistband": "Elastic with Internal Drawstring",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "men-10",
+      "name": "Titan Karishma Men Classic Roman Dial Champagne Analog Watch",
+      "brand": "Titan",
+      "department": "mens_fashion",
+      "category": "Watches & Wallets",
+      "subcategory": "Watches & Wallets",
+      "price": 1995,
+      "originalPrice": 2795,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3890,
+      "stock": 35,
+      "colors": [
+        "Gold Dial & Silver-Gold Strap"
+      ],
+      "description": "Dignified watch featuring gold-toned sunray dial, classical Roman numerals, date window, and bi-color stainless steel bracelet.",
+      "specifications": {
+        "Dial Color": "Champagne Gold with Date Display",
+        "Water Resistance": "30 Meters Water Resistant",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "kid-5",
+      "name": "FirstCry Baby Hug Soft Velvet Warm Sleeping Bag & Carry Nest",
+      "brand": "FirstCry",
+      "department": "kids",
+      "category": "Baby Care Essentials",
+      "subcategory": "Baby Care Essentials",
+      "price": 699,
+      "originalPrice": 1499,
+      "discount": 53,
+      "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1420,
+      "stock": 30,
+      "colors": [
+        "Mint Elephant",
+        "Sky Stars",
+        "Pink Bunny"
+      ],
+      "description": "Cozy padded nest that wraps your newborn snugly to recreate womb comfort. Multi-use zipper converts it from sleeping bag to playmat.",
+      "specifications": {
+        "Age": "0–6 Months",
+        "Lining": "100% Breathable Hypoallergenic Cotton",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "kid-6",
+      "name": "Skybags Marvel Spider-Man 3-Compartment School Backpack",
+      "brand": "Skybags",
+      "department": "kids",
+      "category": "School Bags & Stationery",
+      "subcategory": "School Bags & Stationery",
+      "price": 1249,
+      "originalPrice": 2200,
+      "discount": 43,
+      "image": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1890,
+      "stock": 45,
+      "colors": [
+        "Spider Red & Blue"
+      ],
+      "description": "Official Marvel licensed backpack with air-mesh spine support, rain-cover compartment, and reflective safety strips for young school champions.",
+      "specifications": {
+        "Capacity": "27 Litres",
+        "Features": "Includes Rain Cover & Pencil Pouch",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "kid-7",
+      "name": "Chicco Baby Moments Gentle Cleansing Head-to-Toe Body Wash",
+      "brand": "Chicco",
+      "department": "kids",
+      "category": "Baby Care Essentials",
+      "subcategory": "Baby Care Essentials",
+      "price": 375,
+      "originalPrice": 475,
+      "discount": 21,
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 2980,
+      "stock": 65,
+      "sizes": [
+        "500 ml Pump Bottle"
+      ],
+      "description": "Tear-free botanical formula enriched with oat extract to soothe dry skin and maintain natural pH balance right from baby’s first bath.",
+      "specifications": {
+        "Formula": "No Tears, No Parabens, Phenoxyethanol Free",
+        "Volume": "500 ml",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "foot-5",
+      "name": "Woodland Men Camel Khaki High-Traction Nubuck Leather Trekking Boots",
+      "brand": "Woodland",
+      "department": "footwear",
+      "category": "Sports & Running Shoes",
+      "subcategory": "Sports & Running Shoes",
+      "price": 3495,
+      "originalPrice": 4995,
+      "discount": 30,
+      "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 2890,
+      "stock": 25,
+      "sizes": [
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Camel Khaki",
+        "Olive Green"
+      ],
+      "description": "Rugged genuine oiled nubuck leather boot with deeply lugged Italian rubber sole built to grip wet rocks, forest trails, and muddy pathways.",
+      "specifications": {
+        "Upper": "Genuine Oiled Nubuck Leather",
+        "Outsole": "High-Traction Vulcanized Rubber",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "foot-6",
+      "name": "Asian Men Tarzan Lightweight Memory Foam Walking Slip-Ons",
+      "brand": "Asian",
+      "department": "footwear",
+      "category": "Daily Slippers & Slides",
+      "subcategory": "Daily Slippers & Slides",
+      "price": 699,
+      "originalPrice": 1299,
+      "discount": 46,
+      "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 5120,
+      "stock": 80,
+      "sizes": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Grey Melange",
+        "Navy Blue",
+        "Triple Black"
+      ],
+      "description": "Featherlight pull-on sneakers with elasticated flyknit upper and orthotic memory foam insole. Exceptional comfort for daily evening walks.",
+      "specifications": {
+        "Weight": "Only 210 grams per shoe",
+        "Washable": "Machine Washable on Cold Cycle",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "foot-7",
+      "name": "Sparx Men Dual-Strap Rugged Waterproof Outdoor Floater Sandals",
+      "brand": "Sparx",
+      "department": "footwear",
+      "category": "Sandals & Floaters",
+      "subcategory": "Sandals & Floaters",
+      "price": 749,
+      "originalPrice": 1049,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 6700,
+      "stock": 90,
+      "sizes": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "colors": [
+        "Camel & Black",
+        "Olive & Orange",
+        "Navy & Grey"
+      ],
+      "description": "Tough quick-dry webbing straps with hook-and-loop velcro closures and contoured EVA footbed designed to survive the Indian monsoon.",
+      "specifications": {
+        "Upper": "Waterproof Synthetic Webbing",
+        "Sole": "Anti-Skid Grooved Rubber",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "beau-5",
+      "name": "Biotique Bio Kelp Protein Shampoo for Falling Hair Intensive Treatment",
+      "brand": "Biotique",
+      "department": "beauty",
+      "category": "Shampoo & Conditioners",
+      "subcategory": "Shampoo & Conditioners",
+      "price": 249,
+      "originalPrice": 350,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 3840,
+      "stock": 85,
+      "sizes": [
+        "400 ml Bottle"
+      ],
+      "description": "Pure kelp seaweed, natural mint leaf extracts, and Himalayan water invigorate the scalp for thicker, healthier hair without stripping moisture.",
+      "specifications": {
+        "Volume": "400 ml",
+        "Key Botanical": "Natural Kelp Seaweed",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "beau-6",
+      "name": "Forest Essentials Soundarya 24K Gold Radiance Facial Cream",
+      "brand": "Forest Essentials",
+      "department": "beauty",
+      "category": "Moisturizers & Creams",
+      "subcategory": "Moisturizers & Creams",
+      "price": 2895,
+      "originalPrice": 3495,
+      "discount": 17,
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 890,
+      "stock": 20,
+      "sizes": [
+        "30 g Glass Jar"
+      ],
+      "description": "Traditional Ayurvedic preparation with 24 Karat gold bhasma, saffron, and cold-pressed ghee that nourishes deeply and imparts an ethereal glow.",
+      "specifications": {
+        "Net Weight": "30 g",
+        "Gold Content": "24K Gold Bhasma Certified",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "beau-7",
+      "name": "Fogg Scent Xpressio Eau De Parfum Long Lasting Perfume for Men",
+      "brand": "Fogg",
+      "department": "beauty",
+      "category": "Perfumes & Deodorants",
+      "subcategory": "Perfumes & Deodorants",
+      "price": 349,
+      "originalPrice": 599,
+      "discount": 42,
+      "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 4190,
+      "stock": 70,
+      "sizes": [
+        "100 ml Spray"
+      ],
+      "description": "Warm woody and spicy fragrance with notes of cedarwood, amber, and ginger. Powerful sillage that keeps you smelling magnetic all day.",
+      "specifications": {
+        "Volume": "100 ml",
+        "Concentration": "Eau De Parfum (EDP)",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "mob-5",
+      "name": "OnePlus Warp Charge 65W Power Adapter with Red Type-C Cable",
+      "brand": "OnePlus",
+      "department": "mobiles",
+      "category": "Fast Chargers & Adapters",
+      "subcategory": "Fast Chargers & Adapters",
+      "price": 1999,
+      "originalPrice": 2499,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3820,
+      "stock": 40,
+      "description": "Charges OnePlus and PD devices from 0 to 100% in just 32 minutes without heating the phone thanks to intelligent internal chip heat-dissipation.",
+      "specifications": {
+        "Output": "65W Max SuperVOOC / Warp Charge",
+        "Cable": "1 Meter Signature Braided Red Cable",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "mob-6",
+      "name": "boAt Dual USB Braided 2.4A Fast Charging Micro USB Cable (1.5M)",
+      "brand": "boAt",
+      "department": "mobiles",
+      "category": "USB Cables & Hubs",
+      "subcategory": "USB Cables & Hubs",
+      "price": 199,
+      "originalPrice": 499,
+      "discount": 60,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 6100,
+      "stock": 120,
+      "colors": [
+        "Space Grey Braided",
+        "Crimson Red"
+      ],
+      "description": "Rugged nylon braided casing withstands over 10,000 bends. Solid copper conductors support both rapid 2.4A charging and 480Mbps data transfer.",
+      "specifications": {
+        "Length": "1.5 Meters Extra Long",
+        "Material": "Military-Grade Nylon Braid",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "Under ₹200"
+    },
+    {
+      "id": "elec-4",
+      "name": "Zebronics Zeb-Warrior 2.0 Multimedia Speakers with RGB Lights",
+      "brand": "Zebronics",
+      "department": "electronics",
+      "category": "Bluetooth Speakers",
+      "subcategory": "Bluetooth Speakers",
+      "price": 699,
+      "originalPrice": 1499,
+      "discount": 53,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 3450,
+      "stock": 50,
+      "colors": [
+        "Matte Black with Breathing RGB"
+      ],
+      "description": "Compact desktop computer speakers powered via USB with breathing color-cycling RGB LEDs and convenient in-line volume control wheel.",
+      "specifications": {
+        "Output": "10W RMS Total Output",
+        "Power Source": "5V USB Powered",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "elec-5",
+      "name": "Lenovo 300 FHD 1080P Web Camera with Dual Stereo Microphones",
+      "brand": "Lenovo",
+      "department": "electronics",
+      "category": "Computer Accessories",
+      "subcategory": "Computer Accessories",
+      "price": 1799,
+      "originalPrice": 3990,
+      "discount": 55,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1980,
+      "stock": 35,
+      "description": "Crisp Full HD 1080P wide-angle lens with physical privacy shutter slide and 360-degree rotation. Ideal for Zoom meetings and online classes.",
+      "specifications": {
+        "Resolution": "1080P FHD at 30 FPS",
+        "Microphone": "Integrated Dual Stereo Noise Cancelling Mics",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "home-5",
+      "name": "Pigeon by Stovekraft 1.5-Litre Electric Kettle 1500W Stainless Steel",
+      "brand": "Pigeon",
+      "department": "home_kitchen",
+      "category": "Electric Kettles",
+      "subcategory": "Electric Kettles",
+      "price": 549,
+      "originalPrice": 1195,
+      "discount": 54,
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 7890,
+      "stock": 90,
+      "colors": [
+        "Silver Chrome"
+      ],
+      "description": "Boils water, eggs, or instant noodles in less than 3 minutes. Automatic shutoff when boiled and dry-boil safety protection.",
+      "specifications": {
+        "Capacity": "1.5 Litres",
+        "Power": "1500 Watts Rapid Boil",
+        "Material": "Hygienic 304 Stainless Steel",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true,
+      "badge": "Mega Deal"
+    },
+    {
+      "id": "home-6",
+      "name": "Borosil Klip N Store Microwavable Borosilicate Glass Containers (Set of 3)",
+      "brand": "Borosil",
+      "department": "home_kitchen",
+      "category": "Storage Containers",
+      "subcategory": "Storage Containers",
+      "price": 999,
+      "originalPrice": 1590,
+      "discount": 37,
+      "image": "https://images.unsplash.com/photo-1584990347449-366a6a968600?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3120,
+      "stock": 45,
+      "sizes": [
+        "Set of 3 (320ml, 520ml, 800ml)"
+      ],
+      "description": "100% borosilicate glass that withstands temperatures up to 400°C. 100% airtight silicone seal clips prevent gravy leaks.",
+      "specifications": {
+        "Glass Type": "100% Borosilicate (Microwave & Oven Safe)",
+        "Leakproof": "Airtight Clip Lids with Removable Silicone",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "home-7",
+      "name": "Philips Digital Air Fryer with Rapid Air Technology (4.1 Litre)",
+      "brand": "Philips",
+      "department": "home_kitchen",
+      "category": "Air Fryers",
+      "subcategory": "Air Fryers",
+      "price": 6999,
+      "originalPrice": 10995,
+      "discount": 36,
+      "image": "https://images.unsplash.com/photo-1584990347449-366a6a968600?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 4210,
+      "stock": 25,
+      "colors": [
+        "Glossy Black"
+      ],
+      "description": "Fry samosas, french fries, and chicken tikkas with up to 90% less oil. Touchscreen display with 7 pre-set cooking programs.",
+      "specifications": {
+        "Capacity": "4.1 Litres Basket",
+        "Tech": "Rapid Air Starfish Design",
+        "Power": "1400 Watts",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "gym-4",
+      "name": "Kobo High-Speed Ball Bearing Weighted Skipping Rope",
+      "brand": "Kobo",
+      "department": "gym_fitness",
+      "category": "Speed Skipping Ropes",
+      "subcategory": "Speed Skipping Ropes",
+      "price": 299,
+      "originalPrice": 699,
+      "discount": 57,
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2890,
+      "stock": 75,
+      "colors": [
+        "Black & Red"
+      ],
+      "description": "Equipped with 360-degree precision steel ball bearings for tangle-free, super-fast rotations. Steel wire cable coated with PVC.",
+      "specifications": {
+        "Cable Length": "3 Meters (Fully Adjustable)",
+        "Handle": "Anti-Slip Ergonomic Foam Grips",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "gym-5",
+      "name": "Boldfit Padded Gym Gloves with Integrated Wrist Support Wraps",
+      "brand": "Boldfit",
+      "department": "gym_fitness",
+      "category": "Gym Gloves & Wrist Wraps",
+      "subcategory": "Gym Gloves & Wrist Wraps",
+      "price": 449,
+      "originalPrice": 899,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 3410,
+      "stock": 60,
+      "sizes": [
+        "M (Medium)",
+        "L (Large)",
+        "XL (Extra Large)"
+      ],
+      "colors": [
+        "Black & Orange"
+      ],
+      "description": "High-density silicone padding prevents calluses and blisters during deadlifts and pull-ups. Built-in 18-inch elastic wrist brace protects wrist joints.",
+      "specifications": {
+        "Material": "Breathable Microfiber + Lycra Mesh",
+        "Wrist Wrap": "18 Inch Elasticated Velcro Wrap",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "spo-4",
+      "name": "Nivia Storm Match Heavy Thermobonded Football (Size 5)",
+      "brand": "Nivia",
+      "department": "sports",
+      "category": "Footballs & Accessories",
+      "subcategory": "Footballs & Accessories",
+      "price": 799,
+      "originalPrice": 1290,
+      "discount": 38,
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2450,
+      "stock": 40,
+      "colors": [
+        "Cyan & Lime Wave"
+      ],
+      "description": "FIFA certified quality match football with seamless thermobonded panels that resist water absorption during torrential monsoon matches.",
+      "specifications": {
+        "Size": "5 Official Match Size",
+        "Construction": "Seamless Thermobonded PU",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "spo-5",
+      "name": "Speedo Glide Anti-Fog UV Protection Swimming Goggles",
+      "brand": "Speedo",
+      "department": "sports",
+      "category": "Swimming Goggles & Caps",
+      "subcategory": "Swimming Goggles & Caps",
+      "price": 649,
+      "originalPrice": 999,
+      "discount": 35,
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1650,
+      "stock": 50,
+      "colors": [
+        "Smoke Grey Lens",
+        "Clear Blue Lens"
+      ],
+      "description": "Hypoallergenic soft silicone seal forms a watertight contour around eyes without leaving stubborn suction marks. Anti-fog coating for 100% clear vision.",
+      "specifications": {
+        "Lens Coating": "Anti-Fog + UV Protection",
+        "Strap": "Dual Silicone Head Strap with Side Clips",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "toy-3",
+      "name": "Hot Wheels 5-Car Die-Cast Collector Gift Pack (Scale 1:64)",
+      "brand": "Hot Wheels",
+      "department": "toys_games",
+      "category": "Die-cast Cars & RC Vehicles",
+      "subcategory": "Die-cast Cars & RC Vehicles",
+      "price": 699,
+      "originalPrice": 899,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 3890,
+      "stock": 60,
+      "description": "Pack of 5 authentic 1:64 scale die-cast metal muscle and sports cars with realistic decos and spinning wheels. Track stars compatible.",
+      "specifications": {
+        "Scale": "1:64 Scale Die-Cast Metal",
+        "Age": "3 Years and Above",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "toy-4",
+      "name": "Frank 108-Piece Illustrated Indian Monuments Jigsaw Puzzle",
+      "brand": "Frank",
+      "department": "toys_games",
+      "category": "Educational Puzzles",
+      "subcategory": "Educational Puzzles",
+      "price": 349,
+      "originalPrice": 599,
+      "discount": 42,
+      "image": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1420,
+      "stock": 45,
+      "description": "Vibrant puzzle depicting the Taj Mahal, Red Fort, Qutub Minar, and Gateway of India. Made from non-toxic extra-thick cardboard.",
+      "specifications": {
+        "Pieces": "108 Interlocking Cardboard Pieces",
+        "Age Recommendation": "5 to 9 Years",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "book-3",
+      "name": "The Psychology of Money by Morgan Housel (Indian Edition)",
+      "brand": "Jaico",
+      "department": "books_stationery",
+      "category": "Self-Help & Business Books",
+      "subcategory": "Self-Help & Business Books",
+      "price": 310,
+      "originalPrice": 499,
+      "discount": 38,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 8400,
+      "stock": 95,
+      "description": "Timeless lessons on wealth, greed, and happiness. Doing well with money isn’t about what you know, it’s about how you behave.",
+      "specifications": {
+        "Format": "Paperback",
+        "Pages": "256 Pages",
+        "Publisher": "Jaico Publishing House",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "book-4",
+      "name": "Parker Vector Camouflage Matte Rollerball Pen with Chrome Trim",
+      "brand": "Parker",
+      "department": "books_stationery",
+      "category": "Rollerball & Fountain Pens",
+      "subcategory": "Rollerball & Fountain Pens",
+      "price": 449,
+      "originalPrice": 650,
+      "discount": 31,
+      "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2410,
+      "stock": 55,
+      "colors": [
+        "Military Camo Green",
+        "Stealth Black"
+      ],
+      "description": "Iconic arrow clip design with stainless steel tip and smooth FreeInk rollerball technology for smudge-proof, effortless signing.",
+      "specifications": {
+        "Ink Color": "Blue Waterproof Ink",
+        "Refillable": "Uses Standard Parker Rollerball Refills",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "jew-3",
+      "name": "Sukkhi Traditional Oxidized Silver Plated Tribal Peacock Jhumki Earrings",
+      "brand": "Sukkhi",
+      "department": "jewellery",
+      "category": "Traditional Jhumkas & Earrings",
+      "subcategory": "Traditional Jhumkas & Earrings",
+      "price": 249,
+      "originalPrice": 999,
+      "discount": 75,
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 3120,
+      "stock": 70,
+      "description": "Statement German silver antique finish jhumkas featuring dancing peacock carvings and chiming ghungroo drops. Pairs elegantly with cotton kurtis.",
+      "specifications": {
+        "Plating": "Antique Oxidized German Silver",
+        "Earring Length": "7.5 cm",
+        "Weight": "Lightweight Hollow Alloy",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "75% OFF"
+    },
+    {
+      "id": "jew-4",
+      "name": "Mia by Tanishq 14KT Yellow Gold Floral Diamond Stud Earrings",
+      "brand": "Mia by Tanishq",
+      "department": "jewellery",
+      "category": "Mangalsutras & Pendants",
+      "subcategory": "Mangalsutras & Pendants",
+      "price": 8999,
+      "originalPrice": 10999,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 410,
+      "stock": 15,
+      "description": "Hallmarked 14KT yellow gold dainty studs encrusted with natural SI clarity brilliant-cut diamonds. Comes with Tanishq authenticity card.",
+      "specifications": {
+        "Gold Purity": "14KT (585 BIS Hallmarked)",
+        "Diamond Clarity": "SI2 GH Natural Diamonds",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "bag-3",
+      "name": "Safari Pentagon 3-Piece Hardside Polypropylene Luggage Trolley Set",
+      "brand": "Safari",
+      "department": "bags_luggage",
+      "category": "Cabin Trolley Bags",
+      "subcategory": "Cabin Trolley Bags",
+      "price": 5999,
+      "originalPrice": 15999,
+      "discount": 62,
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2890,
+      "stock": 20,
+      "colors": [
+        "Cyan Blue",
+        "Midnight Black",
+        "Sunset Orange"
+      ],
+      "description": "Complete travel family set: 55cm Cabin, 65cm Medium Check-in, and 75cm Large Check-in. Unbreakable scratch-resistant polypropylene shells.",
+      "specifications": {
+        "Set Contains": "3 Trolley Bags (Small, Medium, Large)",
+        "Material": "100% Pure Virgin Polypropylene",
+        "Lock": "Fixed 3-Digit Recessed Lock",
+        "Country of Origin": "India"
+      },
+      "isDeal": true,
+      "badge": "Set of 3 Deal"
+    },
+    {
+      "id": "bag-4",
+      "name": "Caprese Adele Women Faux Saffiano Vegan Leather Large Tote Bag",
+      "brand": "Caprese",
+      "department": "bags_luggage",
+      "category": "Women Tote & Sling Bags",
+      "subcategory": "Women Tote & Sling Bags",
+      "price": 1699,
+      "originalPrice": 4299,
+      "discount": 60,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 1650,
+      "stock": 35,
+      "colors": [
+        "Dusty Blush",
+        "Burgundy Wine",
+        "Navy Blue"
+      ],
+      "description": "Spacious everyday tote comfortably fits a 14-inch laptop, water bottle, and makeup pouch. Features signature Caprese logo charm and sturdy flat handles.",
+      "specifications": {
+        "Closure": "Full Top Metal Zipper",
+        "Material": "Textured Saffiano Faux Leather",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "hea-3",
+      "name": "Omron HEM-7120 Fully Automatic Digital Blood Pressure Monitor",
+      "brand": "Omron",
+      "department": "health_wellness",
+      "category": "Digital BP Monitors & Scales",
+      "subcategory": "Digital BP Monitors & Scales",
+      "price": 1899,
+      "originalPrice": 2690,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 5890,
+      "stock": 50,
+      "description": "IntelliSense technology automatically applies the right amount of pressure for fast, accurate, and comfortable arm cuff inflation. Detects irregular heartbeat.",
+      "specifications": {
+        "Cuff Size": "Medium Cuff (22–32 cm)",
+        "Accuracy": "Pressure +/- 3 mmHg",
+        "Warranty": "3 Years Omron India Warranty",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "hea-4",
+      "name": "Kapiva Pure Himalayan Shilajit Gold Resin with 24K Swarna Bhasma (20g)",
+      "brand": "Kapiva",
+      "department": "health_wellness",
+      "category": "Immunity Boosters & Chyawanprash",
+      "subcategory": "Immunity Boosters & Chyawanprash",
+      "price": 1199,
+      "originalPrice": 1799,
+      "discount": 33,
+      "image": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 3120,
+      "stock": 40,
+      "description": "Harvested from 18,000 feet in the pristine Himalayas. Purified through ancient Shodhana process and enriched with pure 24K gold flakes for male vigor and stamina.",
+      "specifications": {
+        "Net Weight": "20 g Pure Resin",
+        "Fulvic Acid": "Guaranteed >60% Fulvic Acid Content",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "hous-3",
+      "name": "Vim Lemon Dishwash Liquid Gel with Real Lemon Juice (2 Litre Jar)",
+      "brand": "Vim",
+      "department": "household",
+      "category": "Dishwash Gels & Bars",
+      "subcategory": "Dishwash Gels & Bars",
+      "price": 349,
+      "originalPrice": 425,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 6890,
+      "stock": 110,
+      "sizes": [
+        "2 Litre Jar"
+      ],
+      "description": "Just 1 spoon of Vim Gel cleans a sink full of oily vessels including burnt oily kadhais. Leaves zero white residue on glassware and stainless steel.",
+      "specifications": {
+        "Volume": "2 Litres",
+        "Active Agent": "Concentrated Lime Degreaser",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "hous-4",
+      "name": "Scotch-Brite 2-in-1 Bucket Spin Mop with 2 Microfiber Refills",
+      "brand": "Scotch-Brite",
+      "department": "household",
+      "category": "Microfiber Mops & Wipers",
+      "subcategory": "Microfiber Mops & Wipers",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discount": 35,
+      "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 4210,
+      "stock": 45,
+      "colors": [
+        "Green & White"
+      ],
+      "description": "Heavy duty twin-bucket mechanism with separate wash and dry spin chambers. Ultra-absorbent microfibers trap tiny hair strands and stubborn dust in one swipe.",
+      "specifications": {
+        "Includes": "1 Bucket + 1 Stainless Steel Rod + 2 Refill Heads",
+        "Warranty": "1 Year 3M India Warranty",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true
+    },
+    {
+      "id": "pet-3",
+      "name": "Drools 100% Real Chicken & Liver Gravy Adult Dog Food (Pack of 15 x 150g)",
+      "brand": "Drools",
+      "department": "pet_supplies",
+      "category": "Dog Food & Biscuits",
+      "subcategory": "Dog Food & Biscuits",
+      "price": 499,
+      "originalPrice": 600,
+      "discount": 17,
+      "image": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 2190,
+      "stock": 65,
+      "description": "Succulent chunks of farm fresh chicken and liver slow-cooked in rich savory gravy. Fortified with essential Omega-3 and Omega-6 fatty acids.",
+      "specifications": {
+        "Pack Size": "15 Pouches x 150g Each",
+        "Food Type": "Wet Dog Food",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "pet-4",
+      "name": "Heads Up For Tails Organic Oatmeal Anti-Itch Herbal Dog Shampoo (350ml)",
+      "brand": "Heads Up For Tails",
+      "department": "pet_supplies",
+      "category": "Pet Shampoo & Deodorants",
+      "subcategory": "Pet Shampoo & Deodorants",
+      "price": 449,
+      "originalPrice": 599,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 1420,
+      "stock": 40,
+      "description": "Formulated with colloidal oatmeal, aloe vera, and tea tree oil to relieve itching from flea bites and seasonal allergies. Tear-free gentle formula.",
+      "specifications": {
+        "Volume": "350 ml",
+        "Key Herb": "Colloidal Oatmeal & Tea Tree",
+        "Country of Origin": "India"
+      }
+    },
+    {
+      "id": "auto-3",
+      "name": "Wavex Dual-Sided Plush Microfiber Polishing & Drying Cloth (Set of 4)",
+      "brand": "Wavex",
+      "department": "automotive",
+      "category": "Microfiber Polishing Towels",
+      "subcategory": "Microfiber Polishing Towels",
+      "price": 399,
+      "originalPrice": 799,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 3890,
+      "stock": 90,
+      "colors": [
+        "Yellow & Grey Edge"
+      ],
+      "description": "Super plush 800 GSM microfiber with silk-banded borders that absorbs up to 10 times its weight in water without leaving swirl marks or scratches on car paint.",
+      "specifications": {
+        "GSM": "800 GSM Heavyweight Plush",
+        "Dimensions": "40 cm x 40 cm (Pack of 4)",
+        "Country of Origin": "India"
+      },
+      "isDeal": true
+    },
+    {
+      "id": "auto-4",
+      "name": "Portronics Clamp X 360-Degree Universal Car Dashboard Mobile Holder",
+      "brand": "Portronics",
+      "department": "automotive",
+      "category": "Dashboard Mobile Holders",
+      "subcategory": "Dashboard Mobile Holders",
+      "price": 349,
+      "originalPrice": 699,
+      "discount": 50,
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 4120,
+      "stock": 75,
+      "colors": [
+        "All Black Matte"
+      ],
+      "description": "Sticky gel suction cup locks firmly onto textured car dashboards or windshields. One-touch telescopic release button operates smoothly with single hand.",
+      "specifications": {
+        "Mount Type": "Strong Suction + Dashboard Pad",
+        "Phone Width": "Accommodates 4.0 to 7.0 Inch Phones",
+        "Country of Origin": "India"
+      },
+      "isBestSeller": true
+    },
+    {
+      "id": "gift-3",
+      "name": "Ferrero Rocher Premium Hazelnut Chocolates Diamond Gift Box (24 Pieces)",
+      "brand": "Ferrero Rocher",
+      "department": "gifts",
+      "category": "Artisanal Chocolate Hampers",
+      "subcategory": "Artisanal Chocolate Hampers",
+      "price": 949,
+      "originalPrice": 1195,
+      "discount": 21,
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 6420,
+      "stock": 65,
+      "description": "Crisp wafer shell wrapped in milk chocolate and chopped hazelnuts, filled with smooth hazelnut cream and a whole crunchy hazelnut inside.",
+      "specifications": {
+        "Count": "24 Gold Foil Pralines (300g)",
+        "Packaging": "Transparent Diamond Acrylic Gift Box",
+        "Country of Origin": "India"
+      },
+      "isFeatured": true,
+      "isBestSeller": true
+    },
+    {
+      "id": "gift-4",
+      "name": "Chumbak Heritage Handcrafted Floral Ceramic Coffee Mug with Gift Box",
+      "brand": "Chumbak",
+      "department": "gifts",
+      "category": "Personalized Photo Frames",
+      "subcategory": "Personalized Photo Frames",
+      "price": 495,
+      "originalPrice": 795,
+      "discount": 38,
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 1890,
+      "stock": 40,
+      "colors": [
+        "Marigold Yellow & Cyan Floral"
+      ],
+      "description": "Charming artisanal stoneware mug featuring cheerful hand-painted Indian folk flora. Microwave and dishwasher safe, packaged in an ornate keepsake gift box.",
+      "specifications": {
+        "Capacity": "350 ml",
+        "Material": "High-Fired Glazed Ceramic",
+        "Country of Origin": "India"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Sanju Padiyar",
+      "email": "padiyarsanju211@gmail.com",
+      "phone": "+91 98765 43210",
+      "role": "customer",
+      "savedAddresses": [
+        {
+          "id": "addr-1",
+          "name": "Sanju Padiyar",
+          "phone": "9876543210",
+          "house": "Flat 402, Royal Palms Residency",
+          "street": "14th Cross, Indiranagar",
+          "area": "Indiranagar 100ft Road",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "pin": "560038",
+          "isDefault": true,
+          "type": "Home"
+        },
+        {
+          "id": "addr-2",
+          "name": "Sanju Padiyar (Office)",
+          "phone": "9876543210",
+          "house": "Level 5, WeWork Prestige Tech Park",
+          "street": "Marathahalli - Sarjapur Outer Ring Rd",
+          "area": "Kadubeesanahalli",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "pin": "560103",
+          "isDefault": false,
+          "type": "Work"
+        }
+      ],
+      "passwordHash": "86c0c193db0504eddc2dc093cf74af9402265ffb2fdc88865172a92d4b630a26b5daccdb6621476df4e92ab707875df63f396a268351e02908059008743623a7",
+      "passwordSalt": "9cc71250e64244d1aed5a924aab37a48"
+    },
+    {
+      "id": "usr-1790849877866",
+      "name": "Rohan Gupta",
+      "email": "testuser_1790849877847@example.com",
+      "phone": "+91 99887 76655",
+      "role": "customer",
+      "savedAddresses": [],
+      "passwordHash": "e1e4b57d56f460c4ef515e76ac079a5e1446cb86ddeb078bc662a62c29ec2836bf7a44fad139cd34d3c299a1ee5cb30bbaddbefecb7ec7533e6f61c121f40c1e",
+      "passwordSalt": "497a91db44c96172350da0a288d43693"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "veyra_sess_64e41909bb10b91461ea769e708ee73e64dbf16d055b1030",
+      "userId": "usr-1",
+      "createdAt": "2026-10-01T10:11:31.505Z",
+      "expiresAt": "2026-10-31T10:11:31.505Z"
+    },
+    {
+      "token": "veyra_sess_b2a7dd85f3b8fb787557e6d9adb999c7048f6b09609d9112",
+      "userId": "usr-1",
+      "createdAt": "2026-10-01T10:13:52.710Z",
+      "expiresAt": "2026-10-31T10:13:52.710Z"
+    },
+    {
+      "token": "veyra_sess_3e9ae5e565053dfdff53a3722e3a05cd28a07aecb3ee997f",
+      "userId": "usr-1790849877866",
+      "createdAt": "2026-10-01T10:17:57.868Z",
+      "expiresAt": "2026-10-31T10:17:57.868Z"
+    },
+    {
+      "token": "veyra_sess_01e54db38e625004ffc4bc35e52c5a20ef91a02f8d808066",
+      "userId": "usr-1790849877866",
+      "createdAt": "2026-10-01T10:17:57.888Z",
+      "expiresAt": "2026-10-31T10:17:57.888Z"
+    }
+  ],
+  "carts": {
+    "usr-1": [],
+    "usr-1790849877866": []
+  },
+  "wishlists": {
+    "usr-1": [
+      "groc-1",
+      "mob-1",
+      "wom-1",
+      "mob-2"
+    ],
+    "usr-1790849877866": [
+      "groc-1"
+    ]
+  },
+  "orders": [
+    {
+      "id": "ord-1790849877944",
+      "userId": "usr-1790849877866",
+      "orderNumber": "VM-951265",
+      "createdAt": "2026-10-01T10:17:57.944Z",
+      "items": [
+        {
+          "productId": "groc-1",
+          "name": "India Gate Classic Basmati Rice (Aged Long Grain)",
+          "brand": "India Gate",
+          "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+          "price": 849,
+          "originalPrice": 1199,
+          "quantity": 3,
+          "selectedSize": "1 kg"
+        }
+      ],
+      "shippingAddress": {
+        "id": "addr-test",
+        "name": "Rohan Gupta",
+        "phone": "9988776655",
+        "house": "Flat 12B, Emerald Towers",
+        "street": "MG Road",
+        "area": "Shivaji Nagar",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pin": "411005",
+        "isDefault": true,
+        "type": "Home"
+      },
+      "paymentMethod": "UPI",
+      "subtotal": 2547,
+      "discount": 0,
+      "deliveryFee": 0,
+      "totalAmount": 2547,
+      "status": "Order Placed",
+      "estimatedDelivery": "Expected by Sun, 4 Oct, 8:00 PM",
+      "trackingTimeline": [
+        {
+          "status": "Order Placed",
+          "timestamp": "Today, 10:17 am",
+          "completed": true,
+          "description": "Order placed & payment verified"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "Estimated within 1 hour",
+          "completed": false,
+          "description": "Seller confirmation in progress"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Item will be packed at fulfillment hub"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Courier assignment pending"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Delivery executive on route"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Delivery confirmation via OTP"
+        }
+      ]
+    },
+    {
+      "id": "ord-1790849530565",
+      "orderNumber": "VM-648766",
+      "createdAt": "2026-10-01T10:12:10.563Z",
+      "items": [
+        {
+          "productId": "groc-1",
+          "name": "India Gate Classic Basmati Rice",
+          "brand": "India Gate",
+          "image": "test.jpg",
+          "price": 849,
+          "originalPrice": 1199,
+          "quantity": 1
+        }
+      ],
+      "shippingAddress": {
+        "name": "Sanju Padiyar",
+        "phone": "9876543210",
+        "house": "Flat 402",
+        "street": "Indiranagar",
+        "area": "Indiranagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pin": "560038",
+        "isDefault": true
+      },
+      "paymentMethod": "UPI",
+      "subtotal": 849,
+      "discount": 0,
+      "deliveryFee": 0,
+      "totalAmount": 849,
+      "status": "Order Placed",
+      "estimatedDelivery": "Expected by Sun, 4 Oct, 8:00 PM",
+      "trackingTimeline": [
+        {
+          "status": "Order Placed",
+          "timestamp": "Today, 10:12 am",
+          "completed": true,
+          "description": "Order placed & payment verified"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "Estimated within 1 hour",
+          "completed": false,
+          "description": "Seller confirmation in progress"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Item will be packed at fulfillment hub"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Courier assignment pending"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Delivery executive on route"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Delivery confirmation via OTP"
+        }
+      ]
+    },
+    {
+      "id": "ord-101",
+      "orderNumber": "VM-892401",
+      "createdAt": "2026-09-27T10:11:15.462Z",
+      "items": [
+        {
+          "productId": "groc-1",
+          "name": "India Gate Classic Basmati Rice (Aged Long Grain)",
+          "brand": "India Gate",
+          "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+          "price": 849,
+          "originalPrice": 1199,
+          "quantity": 1,
+          "selectedSize": "5 kg"
+        },
+        {
+          "productId": "groc-6",
+          "name": "Tata Tea Gold Royal Rich Assam CTC & Long Leaves",
+          "brand": "Tata Tea",
+          "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+          "price": 499,
+          "originalPrice": 620,
+          "quantity": 1,
+          "selectedSize": "1 kg"
+        }
+      ],
+      "shippingAddress": {
+        "id": "addr-1",
+        "name": "Sanju Padiyar",
+        "phone": "9876543210",
+        "house": "Flat 402, Royal Palms Residency",
+        "street": "14th Cross, Indiranagar",
+        "area": "Indiranagar 100ft Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pin": "560038",
+        "isDefault": true,
+        "type": "Home"
+      },
+      "paymentMethod": "UPI",
+      "subtotal": 1348,
+      "discount": 100,
+      "deliveryFee": 0,
+      "totalAmount": 1248,
+      "status": "Delivered",
+      "estimatedDelivery": "Delivered on Oct 28, 2026",
+      "trackingTimeline": [
+        {
+          "status": "Order Placed",
+          "timestamp": "Oct 26, 10:30 AM",
+          "completed": true,
+          "description": "Order confirmed and verified"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "Oct 26, 11:15 AM",
+          "completed": true,
+          "description": "Seller approved the order"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "Oct 26, 04:00 PM",
+          "completed": true,
+          "description": "Package inspected and boxed"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "Oct 27, 08:30 AM",
+          "completed": true,
+          "description": "Dispatched via BlueDart Express"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "Oct 28, 09:00 AM",
+          "completed": true,
+          "description": "With delivery agent Ramesh"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "Oct 28, 02:45 PM",
+          "completed": true,
+          "description": "Delivered to recipient with OTP"
+        }
+      ]
+    },
+    {
+      "id": "ord-102",
+      "orderNumber": "VM-901452",
+      "createdAt": "2026-09-30T10:11:15.463Z",
+      "items": [
+        {
+          "productId": "mob-1",
+          "name": "boAt Airdopes 141 ANC Bluetooth Wireless Earbuds (42H Playback)",
+          "brand": "boAt",
+          "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+          "price": 1299,
+          "originalPrice": 4490,
+          "quantity": 1,
+          "selectedColor": "Bold Black"
+        }
+      ],
+      "shippingAddress": {
+        "id": "addr-1",
+        "name": "Sanju Padiyar",
+        "phone": "9876543210",
+        "house": "Flat 402, Royal Palms Residency",
+        "street": "14th Cross, Indiranagar",
+        "area": "Indiranagar 100ft Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pin": "560038",
+        "isDefault": true,
+        "type": "Home"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "subtotal": 1299,
+      "discount": 0,
+      "deliveryFee": 0,
+      "totalAmount": 1299,
+      "status": "Shipped",
+      "estimatedDelivery": "Arriving Tomorrow, 8:00 PM",
+      "trackingTimeline": [
+        {
+          "status": "Order Placed",
+          "timestamp": "Yesterday, 02:20 PM",
+          "completed": true,
+          "description": "Order placed via COD"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "Yesterday, 03:00 PM",
+          "completed": true,
+          "description": "Seller confirmed packaging"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "Yesterday, 07:45 PM",
+          "completed": true,
+          "description": "Sealed with tamper-evident tape"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "Today, 06:15 AM",
+          "completed": true,
+          "description": "In transit from Bengaluru Hub"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Courier will arrive soon"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "Pending",
+          "completed": false,
+          "description": "Pending receipt"
+        }
+      ]
+    }
+  ]
+}
